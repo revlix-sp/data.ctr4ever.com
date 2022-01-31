@@ -1,4 +1,4 @@
-const url = "/dist/resources/data/data.json";
+const url = "resources/data/data.json";
 
 var datag = "";
 
