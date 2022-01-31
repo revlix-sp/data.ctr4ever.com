@@ -1,0 +1,121 @@
+.t1 {
+  background-color: #fff025;
+}
+
+.t2 {
+  background-color: #c5c5ce;
+}
+
+.t3 {
+  background-color: #f0863f;
+}
+
+.t5 {
+  background-color: #6dff6d;
+}
+
+.t10 {
+  background-color: #56ca56;
+}
+
+.t20 {
+  background-color: #42a542;
+}
+
+.t30 {
+  background-color: #a4e7fc;
+}
+
+.t40 {
+  background-color: #8be4ff;
+}
+
+.t50 {
+  background-color: #70deff;
+}
+
+.t60 {
+  background-color: #82c2ff;
+}
+
+.t70 {
+  background-color: #6da6db;
+}
+
+.t80 {
+  background-color: #578dc0;
+}
+
+.t100 {
+  background-color: #3a6894;
+}
+
+.t125 {
+  background-color: #e75959;
+}
+
+.t150 {
+  background-color: #d34d4d;
+}
+
+.t175 {
+  background-color: #b93c3c;
+}
+
+.t200 {
+  background-color: #9b2424;
+}
+
+.t225 {
+  background-color: #e651cd;
+}
+
+.t250 {
+  background-color: #ce37b5;
+}
+
+.t275 {
+  background-color: #b1269a;
+}
+
+.t300 {
+  background-color: #94147f;
+}
+
+.t325 {
+  background-color: #9751e6;
+}
+
+.t350 {
+  background-color: #7938c2;
+}
+
+.t375 {
+  background-color: #5b229c;
+}
+
+.t400 {
+  background-color: #431479;
+}
+
+.t400p {
+  background-color: #414141;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: center;
+}
+table tr th {
+  border: 1px black solid;
+  border-bottom: 5px black solid;
+  padding: 10px;
+  max-width: 50px;
+  overflow: hidden;
+}
+table tr td {
+  padding: 12px;
+  border: 1px black solid;
+}
+
+/*# sourceMappingURL=style.css.map */
