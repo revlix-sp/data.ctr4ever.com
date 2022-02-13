@@ -1,0 +1,4 @@
+name: "Start Script Javascript"
+runs:
+  using: "node16"
+  main: "getData.js"
