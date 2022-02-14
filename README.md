@@ -6,7 +6,7 @@ To access it : [here](https://revlix-sp.github.io/CTR4Ever_Ranking_Color/)
 
 ---
 \
-<img src="readme/logo.png">
+<img src="src/readme/logo.png">
 
 **Data provided by ctr4ever** - [here](http://ctr4ever.joora.fr/)
 

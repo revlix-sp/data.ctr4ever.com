@@ -25,7 +25,7 @@ function getData(url) {
 
 /* creation of the json file */
 function pushDataJson(data) {
-  fs.writeFile("./dist/resources/data/data.json", JSON.stringify(data, null, 2), (err) => {
+  fs.writeFile("./resources/data/data.json", JSON.stringify(data, null, 2), (err) => {
     if (err) console.log(err);
     console.log("File created.");
   });
@@ -49,7 +49,7 @@ function dataPlayer(data) {
         .find("td:nth-child(2) > a")
         .attr("href");
 
-      // console.log(i + " : " + speudo + " : " + country + " : " + link);
+      console.log(i + " : " + speudo + " : " + country + " : " + link);
 
       array.push(
         {
@@ -71,7 +71,7 @@ function dataTrack() {
     .then((res) => {
 
       const $ = cheerio.load(res.data);
-      // console.log("Rank : " + track_i + " : " + url + array[track_i].pid);
+      console.log("Rank : " + track_i + " : " + url + array[track_i].pid);
 
       var name = "";
       var course = "";
@@ -113,7 +113,7 @@ function dataTrack() {
             else if (lap == "rank: 3") {lap = "3";}
           }
 
-          // console.log(name + " : " + course + " : " + lap);
+          console.log(name + " : " + course + " : " + lap);
 
           array[track_i].track.push(
             {name: name, course: course, lap: lap}
