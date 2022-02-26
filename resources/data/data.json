@@ -4117,104 +4117,6 @@
   },
   {
     "id": 43,
-    "speudo": "Rodrigo Amaral",
-    "country": "Brazil",
-    "pid": "player.php?pid=654",
-    "track": [
-      {
-        "name": "Crash Cove",
-        "course": "25",
-        "lap": "18"
-      },
-      {
-        "name": "Roo Tubes",
-        "course": "29",
-        "lap": "21"
-      },
-      {
-        "name": "Tiger Temple",
-        "course": "55",
-        "lap": "65"
-      },
-      {
-        "name": "Coco Park",
-        "course": "40",
-        "lap": "19"
-      },
-      {
-        "name": "Mystery Caves",
-        "course": "24",
-        "lap": "16"
-      },
-      {
-        "name": "Blizzard Bluff",
-        "course": "64",
-        "lap": "49"
-      },
-      {
-        "name": "Sewer Speedway",
-        "course": "39",
-        "lap": "38"
-      },
-      {
-        "name": "Dingo Canyon",
-        "course": "67",
-        "lap": "45"
-      },
-      {
-        "name": "Papu Pyramid",
-        "course": "96",
-        "lap": "41"
-      },
-      {
-        "name": "Dragon Mines",
-        "course": "67",
-        "lap": "37"
-      },
-      {
-        "name": "Polar Pass",
-        "course": "54",
-        "lap": "47"
-      },
-      {
-        "name": "Cortex Castle",
-        "course": "67",
-        "lap": "54"
-      },
-      {
-        "name": "Tiny Arena",
-        "course": "79",
-        "lap": "53"
-      },
-      {
-        "name": "Hot Air Skyway",
-        "course": "30",
-        "lap": "27"
-      },
-      {
-        "name": "N.Gin Labs",
-        "course": "45",
-        "lap": "26"
-      },
-      {
-        "name": "Oxide Station",
-        "course": "52",
-        "lap": "50"
-      },
-      {
-        "name": "Slide Coliseum",
-        "course": "79",
-        "lap": "94"
-      },
-      {
-        "name": "Turbo Track",
-        "course": "87",
-        "lap": "75"
-      }
-    ]
-  },
-  {
-    "id": 44,
     "speudo": "crashteamfaking",
     "country": "Belgium",
     "pid": "player.php?pid=5",
@@ -4308,6 +4210,104 @@
         "name": "Turbo Track",
         "course": "44",
         "lap": "32"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "speudo": "Rodrigo Amaral",
+    "country": "Brazil",
+    "pid": "player.php?pid=654",
+    "track": [
+      {
+        "name": "Crash Cove",
+        "course": "25",
+        "lap": "18"
+      },
+      {
+        "name": "Roo Tubes",
+        "course": "29",
+        "lap": "21"
+      },
+      {
+        "name": "Tiger Temple",
+        "course": "55",
+        "lap": "65"
+      },
+      {
+        "name": "Coco Park",
+        "course": "40",
+        "lap": "19"
+      },
+      {
+        "name": "Mystery Caves",
+        "course": "24",
+        "lap": "16"
+      },
+      {
+        "name": "Blizzard Bluff",
+        "course": "64",
+        "lap": "49"
+      },
+      {
+        "name": "Sewer Speedway",
+        "course": "39",
+        "lap": "38"
+      },
+      {
+        "name": "Dingo Canyon",
+        "course": "67",
+        "lap": "45"
+      },
+      {
+        "name": "Papu Pyramid",
+        "course": "96",
+        "lap": "41"
+      },
+      {
+        "name": "Dragon Mines",
+        "course": "67",
+        "lap": "37"
+      },
+      {
+        "name": "Polar Pass",
+        "course": "54",
+        "lap": "47"
+      },
+      {
+        "name": "Cortex Castle",
+        "course": "67",
+        "lap": "54"
+      },
+      {
+        "name": "Tiny Arena",
+        "course": "79",
+        "lap": "53"
+      },
+      {
+        "name": "Hot Air Skyway",
+        "course": "30",
+        "lap": "27"
+      },
+      {
+        "name": "N.Gin Labs",
+        "course": "45",
+        "lap": "26"
+      },
+      {
+        "name": "Oxide Station",
+        "course": "52",
+        "lap": "50"
+      },
+      {
+        "name": "Slide Coliseum",
+        "course": "79",
+        "lap": "94"
+      },
+      {
+        "name": "Turbo Track",
+        "course": "87",
+        "lap": "75"
       }
     ]
   },
@@ -7485,7 +7485,7 @@
       },
       {
         "name": "Sewer Speedway",
-        "course": "104",
+        "course": "105",
         "lap": "110"
       },
       {
@@ -11503,7 +11503,7 @@
       },
       {
         "name": "Sewer Speedway",
-        "course": "106",
+        "course": "104",
         "lap": "77"
       },
       {
@@ -14473,7 +14473,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "246",
+        "course": "247",
         "lap": "240"
       },
       {
@@ -15355,7 +15355,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "281",
+        "course": "282",
         "lap": "265"
       },
       {
@@ -15649,7 +15649,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "313",
+        "course": "314",
         "lap": "277"
       },
       {
@@ -15747,7 +15747,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "273",
+        "course": "274",
         "lap": "258"
       },
       {
@@ -15943,7 +15943,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "349",
+        "course": "350",
         "lap": "325"
       },
       {
@@ -16433,7 +16433,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "240",
+        "course": "241",
         "lap": "235"
       },
       {
@@ -16727,7 +16727,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "290",
+        "course": "291",
         "lap": "307"
       },
       {
@@ -16825,7 +16825,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "266",
+        "course": "267",
         "lap": "275"
       },
       {
@@ -17021,7 +17021,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "228",
+        "course": "229",
         "lap": "221"
       },
       {
@@ -17119,7 +17119,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "241",
+        "course": "242",
         "lap": "213"
       },
       {
@@ -18197,7 +18197,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "243",
+        "course": "244",
         "lap": "249"
       },
       {
@@ -18295,7 +18295,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "265",
+        "course": "266",
         "lap": "254"
       },
       {
@@ -18393,7 +18393,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "252",
+        "course": "253",
         "lap": "270"
       },
       {
@@ -18589,7 +18589,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "238",
+        "course": "239",
         "lap": "230"
       },
       {
@@ -18785,7 +18785,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "248",
+        "course": "249",
         "lap": "224"
       },
       {
@@ -19275,7 +19275,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "302",
+        "course": "303",
         "lap": "286"
       },
       {
@@ -19471,7 +19471,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "322",
+        "course": "323",
         "lap": "251"
       },
       {
@@ -19569,7 +19569,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "256",
+        "course": "257",
         "lap": "271"
       },
       {
@@ -19667,7 +19667,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "267",
+        "course": "268",
         "lap": "257"
       },
       {
@@ -19765,7 +19765,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "253",
+        "course": "254",
         "lap": "242"
       },
       {
@@ -19863,7 +19863,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "245",
+        "course": "246",
         "lap": "232"
       },
       {
@@ -19961,7 +19961,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "236",
+        "course": "237",
         "lap": "217"
       },
       {
@@ -20157,7 +20157,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "316",
+        "course": "317",
         "lap": "304"
       },
       {
@@ -20255,7 +20255,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "230",
+        "course": "231",
         "lap": "229"
       },
       {
@@ -20353,7 +20353,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "244",
+        "course": "245",
         "lap": "237"
       },
       {
@@ -20451,7 +20451,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "233",
+        "course": "234",
         "lap": "238"
       },
       {
@@ -20745,7 +20745,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "287",
+        "course": "288",
         "lap": "280"
       },
       {
@@ -20843,7 +20843,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "324",
+        "course": "325",
         "lap": "316"
       },
       {
@@ -21039,7 +21039,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "242",
+        "course": "243",
         "lap": "221"
       },
       {
@@ -21137,7 +21137,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "386",
+        "course": "387",
         "lap": "378"
       },
       {
@@ -21333,7 +21333,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "285",
+        "course": "286",
         "lap": "279"
       },
       {
@@ -21627,7 +21627,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "250",
+        "course": "251",
         "lap": "239"
       },
       {
@@ -21921,7 +21921,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "335",
+        "course": "336",
         "lap": "262"
       },
       {
@@ -22117,7 +22117,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "248",
+        "course": "249",
         "lap": "258"
       },
       {
@@ -22411,7 +22411,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "340",
+        "course": "341",
         "lap": "330"
       },
       {
@@ -22509,7 +22509,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "271",
+        "course": "272",
         "lap": "253"
       },
       {
@@ -22607,7 +22607,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "279",
+        "course": "280",
         "lap": "255"
       },
       {
@@ -22705,7 +22705,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "339",
+        "course": "340",
         "lap": "334"
       },
       {
@@ -22803,7 +22803,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "296",
+        "course": "297",
         "lap": "289"
       },
       {
@@ -22901,7 +22901,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "257",
+        "course": "258",
         "lap": "261"
       },
       {
@@ -22999,7 +22999,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "276",
+        "course": "277",
         "lap": "287"
       },
       {
@@ -23097,7 +23097,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "234",
+        "course": "235",
         "lap": "225"
       },
       {
@@ -23195,7 +23195,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "269",
+        "course": "270",
         "lap": "244"
       },
       {
@@ -23293,7 +23293,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "254",
+        "course": "255",
         "lap": "249"
       },
       {
@@ -23391,7 +23391,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "301",
+        "course": "302",
         "lap": "283"
       },
       {
@@ -23489,7 +23489,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "297",
+        "course": "298",
         "lap": "299"
       },
       {
@@ -23587,7 +23587,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "283",
+        "course": "284",
         "lap": "265"
       },
       {
@@ -23685,7 +23685,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "261",
+        "course": "262",
         "lap": "256"
       },
       {
@@ -23783,7 +23783,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "388",
+        "course": "389",
         "lap": "377"
       },
       {
@@ -23881,7 +23881,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "286",
+        "course": "287",
         "lap": "290"
       },
       {
@@ -23979,7 +23979,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "314",
+        "course": "315",
         "lap": "321"
       },
       {
@@ -24077,7 +24077,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "297",
+        "course": "298",
         "lap": "288"
       },
       {
@@ -24175,7 +24175,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "292",
+        "course": "293",
         "lap": "283"
       },
       {
@@ -24273,7 +24273,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "251",
+        "course": "252",
         "lap": "234"
       },
       {
@@ -24371,7 +24371,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "232",
+        "course": "233",
         "lap": "236"
       },
       {
@@ -24469,7 +24469,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "306",
+        "course": "307",
         "lap": "285"
       },
       {
@@ -24567,7 +24567,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "237",
+        "course": "238",
         "lap": "217"
       },
       {
@@ -24763,7 +24763,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "413",
+        "course": "414",
         "lap": "402"
       },
       {
@@ -24861,7 +24861,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "234",
+        "course": "235",
         "lap": "206"
       },
       {
@@ -24959,7 +24959,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "309",
+        "course": "310",
         "lap": "345"
       },
       {
@@ -25057,7 +25057,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "336",
+        "course": "337",
         "lap": "322"
       },
       {
@@ -25155,7 +25155,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "226",
+        "course": "227",
         "lap": "219"
       },
       {
@@ -25253,7 +25253,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "308",
+        "course": "309",
         "lap": "297"
       },
       {
@@ -25351,7 +25351,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "300",
+        "course": "301",
         "lap": "293"
       },
       {
@@ -25449,7 +25449,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "307",
+        "course": "308",
         "lap": "319"
       },
       {
@@ -25547,7 +25547,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "352",
+        "course": "353",
         "lap": "327"
       },
       {
@@ -25645,7 +25645,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "275",
+        "course": "276",
         "lap": "251"
       },
       {
@@ -25743,7 +25743,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "392",
+        "course": "393",
         "lap": "370"
       },
       {
@@ -25841,7 +25841,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "272",
+        "course": "273",
         "lap": "281"
       },
       {
@@ -25939,7 +25939,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "355",
+        "course": "356",
         "lap": "336"
       },
       {
@@ -26037,7 +26037,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "263",
+        "course": "264",
         "lap": "264"
       },
       {
@@ -26135,7 +26135,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "284",
+        "course": "285",
         "lap": "116"
       },
       {
@@ -26233,7 +26233,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "293",
+        "course": "294",
         "lap": "278"
       },
       {
@@ -26331,7 +26331,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "231",
+        "course": "232",
         "lap": "245"
       },
       {
@@ -26429,7 +26429,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "338",
+        "course": "339",
         "lap": "282"
       },
       {
@@ -26527,7 +26527,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "264",
+        "course": "265",
         "lap": "247"
       },
       {
@@ -26625,7 +26625,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "282",
+        "course": "283",
         "lap": "267"
       },
       {
@@ -26723,7 +26723,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "396",
+        "course": "397",
         "lap": "363"
       },
       {
@@ -26821,7 +26821,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "358",
+        "course": "359",
         "lap": "329"
       },
       {
@@ -26919,7 +26919,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "390",
+        "course": "391",
         "lap": "388"
       },
       {
@@ -27017,7 +27017,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "303",
+        "course": "304",
         "lap": "268"
       },
       {
@@ -27115,7 +27115,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "364",
+        "course": "365",
         "lap": "340"
       },
       {
@@ -27213,7 +27213,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "345",
+        "course": "346",
         "lap": "344"
       },
       {
@@ -27311,7 +27311,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "332",
+        "course": "333",
         "lap": "324"
       },
       {
@@ -27409,7 +27409,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "384",
+        "course": "385",
         "lap": "343"
       },
       {
@@ -27507,7 +27507,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "291",
+        "course": "292",
         "lap": "276"
       },
       {
@@ -27605,7 +27605,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "224",
+        "course": "225",
         "lap": "214"
       },
       {
@@ -27703,7 +27703,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "442",
+        "course": "443",
         "lap": "457"
       },
       {
@@ -27801,7 +27801,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "333",
+        "course": "334",
         "lap": "296"
       },
       {
@@ -27899,7 +27899,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "295",
+        "course": "296",
         "lap": "309"
       },
       {
@@ -27997,7 +27997,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "387",
+        "course": "388",
         "lap": "390"
       },
       {
@@ -28095,7 +28095,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "310",
+        "course": "311",
         "lap": "291"
       },
       {
@@ -28291,7 +28291,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "342",
+        "course": "343",
         "lap": "302"
       },
       {
@@ -28389,7 +28389,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "258",
+        "course": "259",
         "lap": "247"
       },
       {
@@ -28487,7 +28487,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "343",
+        "course": "344",
         "lap": "348"
       },
       {
@@ -28585,7 +28585,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "372",
+        "course": "373",
         "lap": "337"
       },
       {
@@ -28683,7 +28683,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "268",
+        "course": "269",
         "lap": "233"
       },
       {
@@ -28781,7 +28781,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "408",
+        "course": "409",
         "lap": "368"
       },
       {
@@ -28879,7 +28879,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "255",
+        "course": "256",
         "lap": "245"
       },
       {
@@ -28977,7 +28977,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "438",
+        "course": "439",
         "lap": "391"
       },
       {
@@ -29075,7 +29075,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "400",
+        "course": "401",
         "lap": "394"
       },
       {
@@ -29271,7 +29271,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "326",
+        "course": "327",
         "lap": "310"
       },
       {
@@ -29369,7 +29369,7 @@
       },
       {
         "name": "Tiny Arena",
-        "course": "346",
+        "course": "347",
         "lap": "301"
       },
       {
