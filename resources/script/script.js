@@ -35,12 +35,12 @@ function display() {
 
             setColor(0);
             rank_course.setAttribute("class", addclass);
-            rank_course.innerHTML = datag[i].track[t].course;
+            rank_course.innerHTML = datag[i].track[t].course.rank;
             player.appendChild(rank_course);
 
             setColor(1);
             rank_lap.setAttribute("class", addclass);
-            rank_lap.innerHTML = datag[i].track[t].lap;
+            rank_lap.innerHTML = datag[i].track[t].lap.rank;
             player.appendChild(rank_lap);
         }
 
@@ -54,10 +54,10 @@ function setColor(type) {
     var datatype = "";
     switch (type) {
         case 0:
-            datatype = datag[i].track[t].course;
+            datatype = datag[i].track[t].course.rank;
             break;
         case 1:
-            datatype = datag[i].track[t].lap;
+            datatype = datag[i].track[t].lap.rank;
             break;
     }
 
