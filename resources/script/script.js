@@ -1,7 +1,22 @@
 const url = "resources/data/data.json";
+const table = document.getElementById("table");
 var datag = "";
 
 var addclass = "";
+
+var actualzoom = 100;
+
+/* ================================================== */
+
+function zoom(type) {
+    if (type == 0 && actualzoom < 200) {
+        actualzoom += 10;
+    }
+    else if (type == 1 && actualzoom > 10) {
+        actualzoom -= 10;
+    }
+    table.setAttribute("style", "zoom:" + actualzoom + "%");
+}
 
 /* ================================================== */
 
