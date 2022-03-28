@@ -1,5 +1,6 @@
 const url = "resources/data/data.json";
 const table = document.getElementById("table");
+
 var datag = "";
 
 var addclass = "";
@@ -16,6 +17,22 @@ function zoom(type) {
         actualzoom -= 10;
     }
     table.setAttribute("style", "zoom:" + actualzoom + "%");
+}
+
+function searchbar() {
+    let input = document.getElementById("searchbar").value;
+    let player = document.getElementsByClassName("player");
+
+    input = input.toLowerCase();
+
+    for (i = 0; i < player.length; i++) {
+        if (!player[i].innerHTML.toLowerCase().includes(input)) {
+            player[i].style.display = "none";
+        }
+        else {
+            player[i].style.display = "table-row";
+        }
+    }
 }
 
 /* ================================================== */
@@ -43,6 +60,8 @@ function display() {
             <td>${datag[i].speudo}</td>
             <td>${datag[i].country}</td>
         `;
+
+        player.setAttribute("class", "player")
 
         for (t = 0; t < datag[i].track.length; t++) {
             const rank_course = document.createElement("td");
