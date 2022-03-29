@@ -11,7 +11,22 @@ html
         .container
             h1.title CTR4Ever Ranking Color
 
-            table
+            .menu
+                .searchbar
+                    input(type="search" id="searchbar" onkeyup="searchbar(0)")
+                hr
+                .zoom
+                    button(onclick="zoom(0)") Zoom
+                    button(onclick="zoom(1)") Unzoom
+                hr
+                button(onclick="display(0)") Ranking
+                button(onclick="display(1)") Version
+                button(onclick="display(2)") Driver
+                button(onclick="display(3)") Standard
+                button(onclick="display(4)") Updated Standard
+                hr
+
+            table#table
                 thead
                     tr
                         th Rank
