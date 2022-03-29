@@ -38,6 +38,59 @@
 
 @include bg("400p", #414141);
 
+@include bg("pal", #96cff0);
+@include bg("ntsc", #96f0a5);
+@include bg("na", #acacac);
+
+@include bg("god4", #953737);
+@include bg("god3", #a74343);
+@include bg("god2", #bb5151);
+@include bg("god1", #d46666);
+
+@include bg("god", #ec7979);
+
+@include bg("mytha", #71f086);
+@include bg("mythb", #5cce6f);
+@include bg("mythc", #44b156);
+@include bg("mythd", #329543);
+
+@include bg("titana", #baf186);
+@include bg("titanb", #a7d47c);
+@include bg("titanc", #8db964);
+@include bg("titand", #769b53);
+
+@include bg("heroa", #86abf1);
+@include bg("herob", #7798d4);
+@include bg("heroc", #6c88bb);
+@include bg("herod", #6c7fa1);
+
+@include bg("mastera", #f167ac);
+@include bg("masterb", #cf5693);
+@include bg("masterc", #b94b82);
+@include bg("masterd", #9c3c6c);
+
+@include bg("experta", #f186e8);
+@include bg("expertb", #e27cda);
+@include bg("expertc", #cf6fc7);
+@include bg("expertd", #b864b1);
+
+@include bg("advancea", #af86f1);
+@include bg("advanceb", #936fce);
+@include bg("advancec", #7559a3);
+@include bg("advanced", #694f92);
+
+@include bg("intermediatea", #f1dd86);
+@include bg("intermediateb", #d4c377);
+@include bg("intermediatec", #b9aa68);
+@include bg("intermediated", #968953);
+
+@include bg("beginnera", #fa9332);
+@include bg("beginnerb", #d67c27);
+@include bg("beginnerc", #be7026);
+@include bg("beginnerd", #955b24);
+
+@include bg("newbie", #414141);
+
 table {
     border-collapse:collapse;
     text-align: center;
