@@ -10,14 +10,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "20",
+          "rank": "21",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "8",
+          "rank": "9",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -44,7 +44,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "2",
+          "rank": "3",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "1 / Myth A",
@@ -360,7 +360,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "3",
+          "rank": "4",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "1 / Myth A",
@@ -642,14 +642,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "11",
+          "rank": "12",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "11",
+          "rank": "12",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -676,7 +676,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "3",
+          "rank": "4",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "1 / Myth A",
@@ -958,14 +958,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "5",
+          "rank": "6",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "3 / Myth C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "5",
+          "rank": "6",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -992,7 +992,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "5",
+          "rank": "6",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "1 / Myth A",
@@ -1274,14 +1274,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "9",
+          "rank": "10",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "7",
+          "rank": "8",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -1308,7 +1308,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "1",
+          "rank": "2",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "0 / GOD",
@@ -1590,14 +1590,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "24",
+          "rank": "25",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "11",
+          "rank": "12",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -1624,7 +1624,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "24",
+          "rank": "25",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -1906,14 +1906,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "19",
+          "rank": "20",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "17",
+          "rank": "18",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -1940,7 +1940,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "6",
+          "rank": "7",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "2 / Myth B",
@@ -2222,14 +2222,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "3",
+          "rank": "4",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "3 / Myth C",
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "4",
+          "rank": "5",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -2256,7 +2256,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "16",
+          "rank": "17",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -2314,7 +2314,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "25",
+          "rank": "26",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -2538,14 +2538,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "7",
+          "rank": "8",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "16",
+          "rank": "17",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -2572,7 +2572,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "18",
+          "rank": "19",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -2630,7 +2630,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "14",
+          "rank": "15",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -2854,14 +2854,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "6",
+          "rank": "7",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "9",
+          "rank": "10",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -2888,7 +2888,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "21",
+          "rank": "22",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -2946,7 +2946,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "23",
+          "rank": "24",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -3170,14 +3170,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "10",
+          "rank": "11",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "21",
+          "rank": "22",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -3204,7 +3204,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "7",
+          "rank": "8",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "3 / Myth C",
@@ -3486,14 +3486,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "23",
+          "rank": "24",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "27",
+          "rank": "28",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -3520,7 +3520,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "18",
+          "rank": "19",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -3578,7 +3578,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "23",
+          "rank": "24",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -3802,14 +3802,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "15",
+          "rank": "16",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "18",
+          "rank": "19",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -3836,7 +3836,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "29",
+          "rank": "30",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -4118,14 +4118,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "29",
+          "rank": "30",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "14",
+          "rank": "15",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -4152,7 +4152,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "10",
+          "rank": "11",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -4210,7 +4210,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "32",
+          "rank": "33",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -4434,14 +4434,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "16",
+          "rank": "17",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "18",
+          "rank": "19",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -4468,7 +4468,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "17",
+          "rank": "18",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -4526,7 +4526,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "17",
+          "rank": "18",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -4750,14 +4750,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "34",
+          "rank": "35",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "6",
+          "rank": "7",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -4784,7 +4784,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "22",
+          "rank": "23",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -4842,7 +4842,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "12",
+          "rank": "13",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -5066,14 +5066,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "7",
+          "rank": "8",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "11",
+          "rank": "12",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -5100,7 +5100,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "8",
+          "rank": "9",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "3 / Myth C",
@@ -5382,14 +5382,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "14",
+          "rank": "15",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "24",
+          "rank": "25",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -5416,7 +5416,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "12",
+          "rank": "13",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -5698,14 +5698,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "34",
+          "rank": "35",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "26",
+          "rank": "27",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -5732,7 +5732,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "25",
+          "rank": "26",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -5790,7 +5790,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "20",
+          "rank": "21",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -6014,14 +6014,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "25",
+          "rank": "26",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "38",
+          "rank": "39",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -6048,7 +6048,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "28",
+          "rank": "29",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -6106,7 +6106,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "20",
+          "rank": "21",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -6330,14 +6330,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "46",
+          "rank": "47",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "29",
+          "rank": "30",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -6364,7 +6364,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "30",
+          "rank": "31",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -6422,7 +6422,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "13",
+          "rank": "14",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -6646,14 +6646,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "33",
+          "rank": "34",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "56",
+          "rank": "57",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -6680,7 +6680,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "15",
+          "rank": "16",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -6738,7 +6738,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "39",
+          "rank": "40",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -6962,14 +6962,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "40",
+          "rank": "41",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "39",
+          "rank": "40",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -6996,7 +6996,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "14",
+          "rank": "15",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -7054,7 +7054,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "27",
+          "rank": "28",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -7278,14 +7278,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "37",
+          "rank": "38",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "45",
+          "rank": "46",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -7312,7 +7312,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "36",
+          "rank": "37",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -7370,7 +7370,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "32",
+          "rank": "33",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -7594,14 +7594,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "13",
+          "rank": "14",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "10",
+          "rank": "11",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -7686,7 +7686,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "37",
+          "rank": "38",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -7910,14 +7910,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "4",
+          "rank": "5",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "3 / Myth C",
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "3",
+          "rank": "4",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -8002,7 +8002,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "44",
+          "rank": "45",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -8226,14 +8226,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "37",
+          "rank": "38",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "53",
+          "rank": "54",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -8260,7 +8260,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "40",
+          "rank": "41",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -8318,7 +8318,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "27",
+          "rank": "28",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -8542,14 +8542,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "16",
+          "rank": "17",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "22",
+          "rank": "23",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -8576,7 +8576,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "32",
+          "rank": "33",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -8634,7 +8634,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "30",
+          "rank": "31",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -8858,14 +8858,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "29",
+          "rank": "30",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "40",
+          "rank": "41",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -8892,7 +8892,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "35",
+          "rank": "36",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -8950,7 +8950,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "15",
+          "rank": "16",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -9174,14 +9174,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "59",
+          "rank": "60",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "40",
+          "rank": "41",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -9208,7 +9208,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "37",
+          "rank": "38",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -9266,7 +9266,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "16",
+          "rank": "17",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -9490,14 +9490,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "42",
+          "rank": "43",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "71",
+          "rank": "72",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -9524,7 +9524,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "13",
+          "rank": "14",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -9582,7 +9582,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "37",
+          "rank": "38",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -9806,14 +9806,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "16",
+          "rank": "17",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "45",
+          "rank": "46",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -9840,7 +9840,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "11",
+          "rank": "12",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
@@ -9898,7 +9898,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "52",
+          "rank": "53",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -10122,14 +10122,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "56",
+          "rank": "57",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "48",
+          "rank": "49",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -10156,7 +10156,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "38",
+          "rank": "39",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -10214,7 +10214,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "32",
+          "rank": "33",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -10438,14 +10438,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "52",
+          "rank": "53",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "71",
+          "rank": "72",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -10530,7 +10530,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "42",
+          "rank": "43",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -10754,14 +10754,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "31",
+          "rank": "32",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "40",
+          "rank": "41",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -10846,7 +10846,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "57",
+          "rank": "58",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -11077,7 +11077,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "2",
+          "rank": "3",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "1 / Myth A",
@@ -11162,7 +11162,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "20",
+          "rank": "21",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -11386,14 +11386,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "42",
+          "rank": "43",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "34",
+          "rank": "35",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -11420,7 +11420,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "31",
+          "rank": "32",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -11478,7 +11478,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "18",
+          "rank": "19",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -11702,14 +11702,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "46",
+          "rank": "47",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "66",
+          "rank": "67",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -11736,7 +11736,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "33",
+          "rank": "34",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -11794,7 +11794,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "44",
+          "rank": "45",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -12018,14 +12018,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "37",
+          "rank": "38",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "22",
+          "rank": "23",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -12046,24 +12046,24 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "42",
+          "rank": "1",
           "version": "NTSC",
           "standard": "0 / GOD",
-          "updated_standard": "7 / Titan C",
-          "driver": "Penta Penguin"
+          "updated_standard": "0 / GOD",
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "59",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12073,14 +12073,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
-          "driver": "N.Tropy"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "54",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "N.Tropy"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12107,14 +12107,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
-          "rank": "31",
+          "rank": "32",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12124,14 +12124,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "72",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12158,14 +12158,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "11 / Hero C",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "38",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12175,14 +12175,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "61",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12192,14 +12192,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "55",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12209,14 +12209,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "8",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12226,14 +12226,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "21",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "-4 / GOD+4",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12243,14 +12243,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "66",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12260,14 +12260,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "-1 / GOD+1",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "1",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "-2 / GOD+2",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12277,14 +12277,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "47",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12301,7 +12301,7 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       },
       {
@@ -12311,14 +12311,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "11 / Hero C",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         },
         "lap": {
           "rank": "73",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "Penta Penguin"
+          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
         }
       }
     ]
@@ -12334,14 +12334,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "42",
+          "rank": "43",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "29",
+          "rank": "30",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -12426,7 +12426,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "55",
+          "rank": "56",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -12650,14 +12650,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "63",
+          "rank": "64",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "27",
+          "rank": "28",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -12742,7 +12742,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "35",
+          "rank": "36",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -12966,14 +12966,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "91",
+          "rank": "92",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "66",
+          "rank": "67",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -13000,7 +13000,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "20",
+          "rank": "21",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -13058,7 +13058,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "58",
+          "rank": "59",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -13282,14 +13282,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "25",
+          "rank": "26",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "18",
+          "rank": "19",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -13374,7 +13374,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "50",
+          "rank": "51",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -13598,14 +13598,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "48",
+          "rank": "49",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "58",
+          "rank": "59",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -13690,7 +13690,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "69",
+          "rank": "70",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -13914,14 +13914,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "36",
+          "rank": "37",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "34",
+          "rank": "35",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -14006,7 +14006,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "77",
+          "rank": "78",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -14230,14 +14230,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "72",
+          "rank": "73",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "71",
+          "rank": "72",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -14264,7 +14264,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "34",
+          "rank": "35",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -14322,7 +14322,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "87",
+          "rank": "88",
           "version": "PAL",
           "standard": "1 / Titan A",
           "updated_standard": "11 / Hero C",
@@ -14546,14 +14546,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "65",
+          "rank": "66",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "78",
+          "rank": "79",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -14638,7 +14638,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "74",
+          "rank": "75",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -14862,14 +14862,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "81",
+          "rank": "82",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "71",
+          "rank": "72",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -14954,7 +14954,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "58",
+          "rank": "59",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -15178,14 +15178,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "63",
+          "rank": "64",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "66",
+          "rank": "67",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -15270,7 +15270,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "61",
+          "rank": "62",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -15494,14 +15494,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "32",
+          "rank": "33",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "29",
+          "rank": "30",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -15586,7 +15586,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "62",
+          "rank": "63",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -15810,14 +15810,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "48",
+          "rank": "49",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "33",
+          "rank": "34",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -15902,7 +15902,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "55",
+          "rank": "56",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -16126,14 +16126,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "48",
+          "rank": "49",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "71",
+          "rank": "72",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -16218,7 +16218,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "44",
+          "rank": "45",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -16442,14 +16442,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "48",
+          "rank": "49",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "78",
+          "rank": "79",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -16476,7 +16476,7 @@
       {
         "name": "Tiger Temple",
         "course": {
-          "rank": "39",
+          "rank": "40",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -16534,7 +16534,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "27",
+          "rank": "28",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -16758,14 +16758,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "28",
+          "rank": "29",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "14",
+          "rank": "15",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -16850,7 +16850,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "39",
+          "rank": "40",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -17074,14 +17074,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "61",
+          "rank": "62",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "78",
+          "rank": "79",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -17166,7 +17166,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "65",
+          "rank": "66",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -17390,14 +17390,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "75",
+          "rank": "76",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "40",
+          "rank": "41",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -17482,7 +17482,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "41",
+          "rank": "42",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -17706,14 +17706,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "83",
+          "rank": "84",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "58",
+          "rank": "59",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -17798,7 +17798,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "87",
+          "rank": "88",
           "version": "PAL",
           "standard": "1 / Titan A",
           "updated_standard": "11 / Hero C",
@@ -18022,14 +18022,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "87",
+          "rank": "88",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "48",
+          "rank": "49",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -18114,7 +18114,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "63",
+          "rank": "64",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -18338,14 +18338,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "73",
+          "rank": "74",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "66",
+          "rank": "67",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -18430,7 +18430,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "53",
+          "rank": "54",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -18654,14 +18654,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "67",
+          "rank": "68",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "70",
+          "rank": "71",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -18746,7 +18746,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "74",
+          "rank": "75",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -18977,7 +18977,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "96",
+          "rank": "97",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "11 / Hero C",
@@ -19062,7 +19062,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "95",
+          "rank": "96",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -19286,14 +19286,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "41",
+          "rank": "42",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "58",
+          "rank": "59",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -19378,7 +19378,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "72",
+          "rank": "73",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -19602,14 +19602,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "79",
+          "rank": "80",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "86",
+          "rank": "87",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -19694,7 +19694,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "50",
+          "rank": "51",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -19925,7 +19925,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "94",
+          "rank": "95",
           "version": "NTSC",
           "standard": "1 / Titan A",
           "updated_standard": "11 / Hero C",
@@ -20010,7 +20010,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "99",
+          "rank": "100",
           "version": "NTSC",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -20234,14 +20234,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "69",
+          "rank": "70",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "48",
+          "rank": "49",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -20326,7 +20326,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "44",
+          "rank": "45",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -20550,14 +20550,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "42",
+          "rank": "43",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "47",
+          "rank": "48",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -20642,7 +20642,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "95",
+          "rank": "96",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -20866,14 +20866,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "75",
+          "rank": "76",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "64",
+          "rank": "65",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -20958,7 +20958,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "72",
+          "rank": "73",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -21189,7 +21189,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "78",
+          "rank": "79",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -21274,7 +21274,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "84",
+          "rank": "85",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "11 / Hero C",
@@ -21505,7 +21505,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "53",
+          "rank": "54",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -21590,7 +21590,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "42",
+          "rank": "43",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -21814,14 +21814,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "75",
+          "rank": "76",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "78",
+          "rank": "79",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -21906,7 +21906,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "69",
+          "rank": "70",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -22130,14 +22130,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "61",
+          "rank": "62",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "56",
+          "rank": "57",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -22222,7 +22222,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "91",
+          "rank": "92",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -22446,14 +22446,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "75",
+          "rank": "76",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "71",
+          "rank": "72",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -22538,7 +22538,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "83",
+          "rank": "84",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "11 / Hero C",
@@ -22769,7 +22769,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "71",
+          "rank": "72",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -22854,7 +22854,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "85",
+          "rank": "86",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "11 / Hero C",
@@ -23078,14 +23078,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "69",
+          "rank": "70",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "88",
+          "rank": "89",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "10 / Hero B",
@@ -23170,7 +23170,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "103",
+          "rank": "104",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "13 / Master A",
@@ -23394,14 +23394,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "56",
+          "rank": "57",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "48",
+          "rank": "49",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -23486,7 +23486,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "107",
+          "rank": "108",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "13 / Master A",
@@ -23717,7 +23717,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "89",
+          "rank": "90",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "10 / Hero B",
@@ -23802,7 +23802,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "77",
+          "rank": "78",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -24033,7 +24033,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "58",
+          "rank": "59",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -24118,7 +24118,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "81",
+          "rank": "82",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -24349,7 +24349,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "92",
+          "rank": "93",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "11 / Hero C",
@@ -24434,7 +24434,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "69",
+          "rank": "70",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -24665,7 +24665,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "101",
+          "rank": "102",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -24750,7 +24750,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "86",
+          "rank": "87",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "11 / Hero C",
@@ -24974,14 +24974,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "87",
+          "rank": "88",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "115",
+          "rank": "116",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -25066,7 +25066,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "44",
+          "rank": "45",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -25290,14 +25290,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "60",
+          "rank": "61",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "86",
+          "rank": "87",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -25382,7 +25382,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "153",
+          "rank": "154",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -25613,7 +25613,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "108",
+          "rank": "109",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -25698,7 +25698,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "113",
+          "rank": "114",
           "version": "NTSC",
           "standard": "5 / Hero A",
           "updated_standard": "13 / Master A",
@@ -25929,7 +25929,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "96",
+          "rank": "97",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "11 / Hero C",
@@ -26014,7 +26014,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "120",
+          "rank": "121",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -26238,14 +26238,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "79",
+          "rank": "80",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "34",
+          "rank": "35",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -26330,7 +26330,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "94",
+          "rank": "95",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -26561,7 +26561,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "108",
+          "rank": "109",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -26646,7 +26646,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "111",
+          "rank": "112",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "13 / Master A",
@@ -26877,7 +26877,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "92",
+          "rank": "93",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "11 / Hero C",
@@ -26962,7 +26962,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "81",
+          "rank": "82",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -27278,7 +27278,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "113",
+          "rank": "114",
           "version": "PAL",
           "standard": "5 / Hero A",
           "updated_standard": "13 / Master A",
@@ -27509,7 +27509,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "120",
+          "rank": "121",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -27594,7 +27594,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "113",
+          "rank": "114",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "13 / Master A",
@@ -27825,7 +27825,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "107",
+          "rank": "108",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -27910,7 +27910,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "100",
+          "rank": "101",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -28134,7 +28134,7 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "67",
+          "rank": "68",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -28226,7 +28226,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "185",
+          "rank": "186",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -28457,7 +28457,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "108",
+          "rank": "109",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -28542,7 +28542,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "128",
+          "rank": "129",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -28858,7 +28858,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "124",
+          "rank": "125",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -29089,7 +29089,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "96",
+          "rank": "97",
           "version": "PAL",
           "standard": "2 / Titan B",
           "updated_standard": "11 / Hero C",
@@ -29174,7 +29174,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "89",
+          "rank": "90",
           "version": "PAL",
           "standard": "1 / Titan A",
           "updated_standard": "11 / Hero C",
@@ -29490,7 +29490,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "90",
+          "rank": "91",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "11 / Hero C",
@@ -29806,7 +29806,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "113",
+          "rank": "114",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "13 / Master A",
@@ -30122,7 +30122,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "153",
+          "rank": "154",
           "version": "PAL",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -30353,7 +30353,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "111",
+          "rank": "112",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -30438,7 +30438,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "65",
+          "rank": "66",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -30669,7 +30669,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "115",
+          "rank": "116",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -30754,7 +30754,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "101",
+          "rank": "102",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -30985,7 +30985,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "90",
+          "rank": "91",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "10 / Hero B",
@@ -31070,7 +31070,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "130",
+          "rank": "131",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -31301,7 +31301,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "104",
+          "rank": "105",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -31386,7 +31386,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "153",
+          "rank": "154",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -31702,7 +31702,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "103",
+          "rank": "104",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "13 / Master A",
@@ -31933,7 +31933,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "111",
+          "rank": "112",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -32018,7 +32018,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "162",
+          "rank": "163",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -32334,7 +32334,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "53",
+          "rank": "54",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -32565,7 +32565,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "115",
+          "rank": "116",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -32650,7 +32650,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "123",
+          "rank": "124",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -32966,7 +32966,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "190",
+          "rank": "191",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -33282,7 +33282,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "127",
+          "rank": "128",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -33513,7 +33513,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "101",
+          "rank": "102",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -33598,7 +33598,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "91",
+          "rank": "92",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -33914,7 +33914,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "58",
+          "rank": "59",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -34138,14 +34138,14 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "87",
+          "rank": "88",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "34",
+          "rank": "35",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -34230,7 +34230,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "98",
+          "rank": "99",
           "version": "NTSC",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -34461,7 +34461,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "100",
+          "rank": "101",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "11 / Hero C",
@@ -34546,7 +34546,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "130",
+          "rank": "131",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -34777,7 +34777,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "115",
+          "rank": "116",
           "version": "PAL",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -34862,7 +34862,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "136",
+          "rank": "137",
           "version": "PAL",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -35178,7 +35178,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "133",
+          "rank": "134",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -35402,7 +35402,7 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "87",
+          "rank": "88",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -35494,7 +35494,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "153",
+          "rank": "154",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -35810,7 +35810,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "180",
+          "rank": "181",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -36041,7 +36041,7 @@
           "driver": "Papu Papu"
         },
         "lap": {
-          "rank": "78",
+          "rank": "79",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -36126,7 +36126,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "128",
+          "rank": "129",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -36357,7 +36357,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "101",
+          "rank": "102",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -36442,7 +36442,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "108",
+          "rank": "109",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "13 / Master A",
@@ -36758,7 +36758,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "167",
+          "rank": "168",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -37074,7 +37074,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "138",
+          "rank": "139",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -37390,7 +37390,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "118",
+          "rank": "119",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -37614,7 +37614,7 @@
       {
         "name": "Crash Cove",
         "course": {
-          "rank": "92",
+          "rank": "93",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -37706,7 +37706,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "209",
+          "rank": "210",
           "version": "PAL",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -38022,7 +38022,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "150",
+          "rank": "151",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -38338,7 +38338,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "138",
+          "rank": "139",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -38654,7 +38654,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "200",
+          "rank": "201",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -38970,7 +38970,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "175",
+          "rank": "176",
           "version": "NTSC",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -39201,7 +39201,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "120",
+          "rank": "121",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -39286,7 +39286,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "133",
+          "rank": "134",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -39602,7 +39602,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "150",
+          "rank": "151",
           "version": "PAL",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -39833,7 +39833,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "104",
+          "rank": "105",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -39918,7 +39918,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "136",
+          "rank": "137",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -40149,7 +40149,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "78",
+          "rank": "79",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -40234,7 +40234,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "103",
+          "rank": "104",
           "version": "PAL",
           "standard": "4 / Titan D",
           "updated_standard": "13 / Master A",
@@ -40550,7 +40550,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "138",
+          "rank": "139",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -40866,7 +40866,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "91",
+          "rank": "92",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -41182,7 +41182,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "167",
+          "rank": "168",
           "version": "PAL",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -41498,7 +41498,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "167",
+          "rank": "168",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -41814,7 +41814,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "185",
+          "rank": "186",
           "version": "PAL",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -42130,7 +42130,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "164",
+          "rank": "165",
           "version": "PAL",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -42446,7 +42446,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "251",
+          "rank": "252",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "19 / Expert C",
@@ -42762,7 +42762,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "124",
+          "rank": "125",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -43078,7 +43078,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "111",
+          "rank": "112",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "13 / Master A",
@@ -43394,7 +43394,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "192",
+          "rank": "193",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -43710,7 +43710,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "238",
+          "rank": "239",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -43941,7 +43941,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "95",
+          "rank": "96",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "11 / Hero C",
@@ -44026,7 +44026,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "324",
+          "rank": "325",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "22 / Advance B",
@@ -44342,7 +44342,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "244",
+          "rank": "245",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "19 / Expert C",
@@ -44658,7 +44658,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "173",
+          "rank": "174",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -44974,7 +44974,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "222",
+          "rank": "223",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -45290,7 +45290,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "196",
+          "rank": "197",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -45606,7 +45606,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "224",
+          "rank": "225",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -45922,7 +45922,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "199",
+          "rank": "200",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -46238,7 +46238,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "153",
+          "rank": "154",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -46554,7 +46554,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "178",
+          "rank": "179",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -46870,7 +46870,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "204",
+          "rank": "205",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -47186,7 +47186,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "147",
+          "rank": "148",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -47502,7 +47502,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "110",
+          "rank": "111",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "13 / Master A",
@@ -47818,7 +47818,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "253",
+          "rank": "254",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "19 / Expert C",
@@ -48134,7 +48134,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "138",
+          "rank": "139",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -48450,7 +48450,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "164",
+          "rank": "165",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -48766,7 +48766,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "153",
+          "rank": "154",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -49082,7 +49082,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "215",
+          "rank": "216",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -49398,7 +49398,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "209",
+          "rank": "210",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -49714,7 +49714,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "143",
+          "rank": "144",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -50030,7 +50030,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "65",
+          "rank": "66",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -50346,7 +50346,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "130",
+          "rank": "131",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -50662,7 +50662,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "173",
+          "rank": "174",
           "version": "NTSC",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -50978,7 +50978,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "167",
+          "rank": "168",
           "version": "NTSC",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -51294,7 +51294,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "234",
+          "rank": "235",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -51610,7 +51610,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "176",
+          "rank": "177",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -51926,7 +51926,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "229",
+          "rank": "230",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -52242,7 +52242,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "118",
+          "rank": "119",
           "version": "PAL",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -52558,7 +52558,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "180",
+          "rank": "181",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -52874,7 +52874,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "204",
+          "rank": "205",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -53190,7 +53190,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "246",
+          "rank": "247",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "19 / Expert C",
@@ -53506,7 +53506,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "135",
+          "rank": "136",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -53822,7 +53822,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "167",
+          "rank": "168",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -54138,7 +54138,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "185",
+          "rank": "186",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -54454,7 +54454,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "164",
+          "rank": "165",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -54770,7 +54770,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "196",
+          "rank": "197",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -55086,7 +55086,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "215",
+          "rank": "216",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -55402,7 +55402,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "124",
+          "rank": "125",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -55718,7 +55718,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "249",
+          "rank": "250",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "19 / Expert C",
@@ -56034,7 +56034,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "228",
+          "rank": "229",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -56350,7 +56350,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "234",
+          "rank": "235",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -56666,7 +56666,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "230",
+          "rank": "231",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -56982,7 +56982,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "153",
+          "rank": "154",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -57298,7 +57298,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "188",
+          "rank": "189",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -57614,7 +57614,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "218",
+          "rank": "219",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -57930,7 +57930,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "77",
+          "rank": "78",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -58246,7 +58246,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "204",
+          "rank": "205",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -58562,7 +58562,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "167",
+          "rank": "168",
           "version": "PAL",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -58878,7 +58878,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "195",
+          "rank": "196",
           "version": "PAL",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -59194,7 +59194,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "227",
+          "rank": "228",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -59510,7 +59510,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "288",
+          "rank": "289",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "20 / Expert D",
@@ -59826,7 +59826,7 @@
           "driver": "Papu Papu"
         },
         "lap": {
-          "rank": "209",
+          "rank": "210",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -60142,7 +60142,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "258",
+          "rank": "259",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "19 / Expert C",
@@ -60458,7 +60458,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "214",
+          "rank": "215",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -60774,7 +60774,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "200",
+          "rank": "201",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -61005,7 +61005,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "115",
+          "rank": "116",
           "version": "PAL",
           "standard": "3 / Titan C",
           "updated_standard": "12 / Hero D",
@@ -61090,7 +61090,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "178",
+          "rank": "179",
           "version": "PAL",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -61406,7 +61406,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "215",
+          "rank": "216",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -61722,7 +61722,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "162",
+          "rank": "163",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -62038,7 +62038,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "292",
+          "rank": "293",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -62354,7 +62354,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "218",
+          "rank": "219",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -62670,7 +62670,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "258",
+          "rank": "259",
           "version": "PAL",
           "standard": "10 / Expert B",
           "updated_standard": "19 / Expert C",
@@ -62986,7 +62986,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "218",
+          "rank": "219",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -63302,7 +63302,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "252",
+          "rank": "253",
           "version": "NTSC",
           "standard": "10 / Expert B",
           "updated_standard": "19 / Expert C",
@@ -63618,7 +63618,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "200",
+          "rank": "201",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -63934,7 +63934,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "180",
+          "rank": "181",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -64250,7 +64250,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "222",
+          "rank": "223",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -64566,7 +64566,7 @@
           "driver": "Pura"
         },
         "lap": {
-          "rank": "299",
+          "rank": "300",
           "version": "NTSC",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -64882,7 +64882,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "258",
+          "rank": "259",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "19 / Expert C",
@@ -65198,7 +65198,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "230",
+          "rank": "231",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -65514,7 +65514,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "254",
+          "rank": "255",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "19 / Expert C",
@@ -65830,7 +65830,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "278",
+          "rank": "279",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -66146,7 +66146,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "278",
+          "rank": "279",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -66462,7 +66462,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "267",
+          "rank": "268",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -66778,7 +66778,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "306",
+          "rank": "307",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -67094,7 +67094,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "294",
+          "rank": "295",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -67410,7 +67410,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "261",
+          "rank": "262",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -67726,7 +67726,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "269",
+          "rank": "270",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -68042,7 +68042,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "351",
+          "rank": "352",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "22 / Advance B",
@@ -68358,7 +68358,7 @@
           "driver": "Polar"
         },
         "lap": {
-          "rank": "321",
+          "rank": "322",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "21 / Advance A",
@@ -68674,7 +68674,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "289",
+          "rank": "290",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "20 / Expert D",
@@ -68990,7 +68990,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "301",
+          "rank": "302",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -69306,7 +69306,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "233",
+          "rank": "234",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -69622,7 +69622,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "273",
+          "rank": "274",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -69938,7 +69938,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "262",
+          "rank": "263",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -70254,7 +70254,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "191",
+          "rank": "192",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -70570,7 +70570,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "311",
+          "rank": "312",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -70886,7 +70886,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "226",
+          "rank": "227",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -71202,7 +71202,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "349",
+          "rank": "350",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "22 / Advance B",
@@ -71518,7 +71518,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "328",
+          "rank": "329",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "22 / Advance B",
@@ -71834,7 +71834,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "255",
+          "rank": "256",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "19 / Expert C",
@@ -72150,7 +72150,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "365",
+          "rank": "366",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "23 / Advance C",
@@ -72466,7 +72466,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "294",
+          "rank": "295",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -72782,7 +72782,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "344",
+          "rank": "345",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "22 / Advance B",
@@ -73098,7 +73098,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "324",
+          "rank": "325",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "22 / Advance B",
@@ -73414,7 +73414,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "218",
+          "rank": "219",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -73730,7 +73730,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "306",
+          "rank": "307",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -74046,7 +74046,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "318",
+          "rank": "319",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "21 / Advance A",
@@ -74362,7 +74362,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "396",
+          "rank": "397",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "24 / Advance D",
@@ -74678,7 +74678,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "314",
+          "rank": "315",
           "version": "NTSC",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -74994,7 +74994,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "224",
+          "rank": "225",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -75310,7 +75310,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "282",
+          "rank": "283",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -75626,7 +75626,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "269",
+          "rank": "270",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -75942,7 +75942,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "337",
+          "rank": "338",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "22 / Advance B",
@@ -76258,7 +76258,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "344",
+          "rank": "345",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "22 / Advance B",
@@ -76574,7 +76574,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "329",
+          "rank": "330",
           "version": "PAL",
           "standard": "12 / Expert D",
           "updated_standard": "22 / Advance B",
@@ -76890,7 +76890,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "147",
+          "rank": "148",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -77206,7 +77206,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "204",
+          "rank": "205",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -77437,7 +77437,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "99",
+          "rank": "100",
           "version": "NTSC",
           "standard": "2 / Titan B",
           "updated_standard": "11 / Hero C",
@@ -77522,7 +77522,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "234",
+          "rank": "235",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -77838,7 +77838,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "238",
+          "rank": "239",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
@@ -78154,7 +78154,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "370",
+          "rank": "371",
           "version": "PAL",
           "standard": "13 / Advance A",
           "updated_standard": "23 / Advance C",
@@ -78470,7 +78470,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "302",
+          "rank": "303",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -78786,7 +78786,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "416",
+          "rank": "417",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "25 / Intermediate A",
@@ -79102,7 +79102,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "329",
+          "rank": "330",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "22 / Advance B",
@@ -79418,7 +79418,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "387",
+          "rank": "388",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "23 / Advance C",
@@ -79734,7 +79734,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "381",
+          "rank": "382",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "23 / Advance C",
@@ -80050,7 +80050,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "310",
+          "rank": "311",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -80366,7 +80366,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "290",
+          "rank": "291",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "20 / Expert D",
@@ -80682,7 +80682,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "299",
+          "rank": "300",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -80998,7 +80998,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "302",
+          "rank": "303",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -81314,7 +81314,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "381",
+          "rank": "382",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "23 / Advance C",
@@ -81630,7 +81630,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "272",
+          "rank": "273",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -81946,7 +81946,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "370",
+          "rank": "371",
           "version": "PAL",
           "standard": "13 / Advance A",
           "updated_standard": "23 / Advance C",
@@ -82262,7 +82262,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "249",
+          "rank": "250",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "19 / Expert C",
@@ -82578,7 +82578,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "290",
+          "rank": "291",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "20 / Expert D",
@@ -82894,7 +82894,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "351",
+          "rank": "352",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "22 / Advance B",
@@ -83210,7 +83210,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "302",
+          "rank": "303",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -83526,7 +83526,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "286",
+          "rank": "287",
           "version": "PAL",
           "standard": "11 / Expert C",
           "updated_standard": "20 / Expert D",
@@ -83842,7 +83842,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "317",
+          "rank": "318",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "21 / Advance A",
@@ -84158,7 +84158,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "321",
+          "rank": "322",
           "version": "PAL",
           "standard": "12 / Expert D",
           "updated_standard": "21 / Advance A",
@@ -84474,7 +84474,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "373",
+          "rank": "374",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "23 / Advance C",
@@ -84790,7 +84790,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "203",
+          "rank": "204",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -85106,7 +85106,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "332",
+          "rank": "333",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "22 / Advance B",
@@ -85422,7 +85422,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "375",
+          "rank": "376",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "23 / Advance C",
@@ -85738,7 +85738,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "388",
+          "rank": "389",
           "version": "PAL",
           "standard": "14 / Advance B",
           "updated_standard": "24 / Advance D",
@@ -86054,7 +86054,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "437",
+          "rank": "438",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "25 / Intermediate A",
@@ -86370,7 +86370,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "274",
+          "rank": "275",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -86686,7 +86686,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "404",
+          "rank": "405",
           "version": "PAL",
           "standard": "14 / Advance B",
           "updated_standard": "24 / Advance D",
@@ -87002,7 +87002,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "395",
+          "rank": "396",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "24 / Advance D",
@@ -87318,7 +87318,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "356",
+          "rank": "357",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "23 / Advance C",
@@ -87634,7 +87634,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "500",
+          "rank": "501",
           "version": "N/A",
           "standard": "19 / Intermediate C",
           "updated_standard": "27 / Intermediate C",
@@ -87950,7 +87950,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "364",
+          "rank": "365",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "23 / Advance C",
@@ -88266,7 +88266,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "318",
+          "rank": "319",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "21 / Advance A",
@@ -88582,7 +88582,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "337",
+          "rank": "338",
           "version": "PAL",
           "standard": "12 / Expert D",
           "updated_standard": "22 / Advance B",
@@ -88898,7 +88898,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "274",
+          "rank": "275",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -89214,7 +89214,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "153",
+          "rank": "154",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -89530,7 +89530,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "294",
+          "rank": "295",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -89846,7 +89846,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "385",
+          "rank": "386",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "23 / Advance C",
@@ -90162,7 +90162,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "356",
+          "rank": "357",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "23 / Advance C",
@@ -90478,7 +90478,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "390",
+          "rank": "391",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "24 / Advance D",
@@ -90794,7 +90794,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "267",
+          "rank": "268",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "20 / Expert D",
@@ -91110,7 +91110,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "400",
+          "rank": "401",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "24 / Advance D",
@@ -91426,7 +91426,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "384",
+          "rank": "385",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "23 / Advance C",
@@ -91742,7 +91742,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "350",
+          "rank": "351",
           "version": "NTSC",
           "standard": "13 / Advance A",
           "updated_standard": "22 / Advance B",
@@ -92058,7 +92058,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "339",
+          "rank": "340",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "22 / Advance B",
@@ -92374,7 +92374,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "453",
+          "rank": "454",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "25 / Intermediate A",
@@ -92690,7 +92690,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "286",
+          "rank": "287",
           "version": "PAL",
           "standard": "11 / Expert C",
           "updated_standard": "20 / Expert D",
@@ -93006,7 +93006,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "519",
+          "rank": "520",
           "version": "N/A",
           "standard": "19 / Intermediate C",
           "updated_standard": "28 / Intermediate D",
@@ -93322,7 +93322,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "293",
+          "rank": "294",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "21 / Advance A",
@@ -93638,7 +93638,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "348",
+          "rank": "349",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "22 / Advance B",
@@ -93954,7 +93954,7 @@
           "driver": "N.Gin"
         },
         "lap": {
-          "rank": "422",
+          "rank": "423",
           "version": "NTSC",
           "standard": "15 / Advance C",
           "updated_standard": "25 / Intermediate A",
@@ -94270,7 +94270,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "497",
+          "rank": "498",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "27 / Intermediate C",
@@ -94586,7 +94586,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "427",
+          "rank": "428",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "25 / Intermediate A",
