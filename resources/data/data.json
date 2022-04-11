@@ -1414,14 +1414,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "Coco"
+          "driver": "driver/1.gif"
         },
         "lap": {
           "rank": "16",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "4 / Myth D",
-          "driver": "Coco"
+          "driver": "driver/1.gif"
         }
       },
       {
@@ -12046,7 +12046,7 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12056,14 +12056,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "0 / GOD",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "59",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12073,14 +12073,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "N.Tropy"
         },
         "lap": {
           "rank": "54",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "N.Tropy"
         }
       },
       {
@@ -12107,14 +12107,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "32",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12124,14 +12124,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "72",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12158,14 +12158,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "11 / Hero C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "38",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12175,14 +12175,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "61",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12192,14 +12192,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "55",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12209,14 +12209,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "8",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12226,14 +12226,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "21",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "-4 / GOD+4",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12243,14 +12243,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "66",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12260,14 +12260,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "-1 / GOD+1",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "1",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "-2 / GOD+2",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12277,14 +12277,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "47",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12301,7 +12301,7 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -12311,14 +12311,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "11 / Hero C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "73",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       }
     ]
