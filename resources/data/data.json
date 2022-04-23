@@ -33839,7 +33839,7 @@
       {
         "name": "Roo Tubes",
         "course": {
-          "rank": "211",
+          "rank": "212",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -35419,7 +35419,7 @@
       {
         "name": "Roo Tubes",
         "course": {
-          "rank": "213",
+          "rank": "214",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
@@ -39211,10 +39211,10 @@
       {
         "name": "Roo Tubes",
         "course": {
-          "rank": "214",
+          "rank": "210",
           "version": "PAL",
-          "standard": "6 / Hero B",
-          "updated_standard": "16 / Master D",
+          "standard": "5 / Hero A",
+          "updated_standard": "15 / Master C",
           "driver": "Dingodile"
         },
         "lap": {
