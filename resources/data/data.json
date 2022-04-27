@@ -2280,7 +2280,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "20",
+          "rank": "21",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -3860,7 +3860,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "24",
+          "rank": "25",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -4176,7 +4176,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "19",
+          "rank": "20",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -5117,7 +5117,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "45",
+          "rank": "46",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -6704,7 +6704,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "22",
+          "rank": "23",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -7269,6 +7269,322 @@
   },
   {
     "id": 24,
+    "speudo": "Alessandro Mastroianni",
+    "country": "Italy",
+    "age": "26",
+    "description": "I’m the master of my fate, captain of my soul",
+    "pid": "player.php?pid=284",
+    "track": [
+      {
+        "name": "Crash Cove",
+        "course": {
+          "rank": "5",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "3 / Myth C",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "4",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "4 / Myth D",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Roo Tubes",
+        "course": {
+          "rank": "25",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "5 / Titan A",
+          "driver": "Tiny Tiger"
+        },
+        "lap": {
+          "rank": "16",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "4 / Myth D",
+          "driver": "Tiny Tiger"
+        }
+      },
+      {
+        "name": "Tiger Temple",
+        "course": {
+          "rank": "50",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "9 / Hero A",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "34",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "7 / Titan C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Coco Park",
+        "course": {
+          "rank": "43",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "7 / Titan C",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "17",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "5 / Titan A",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Mystery Caves",
+        "course": {
+          "rank": "28",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "6 / Titan B",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "9",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "3 / Myth C",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Blizzard Bluff",
+        "course": {
+          "rank": "49",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "8 / Titan D",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "45",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "9 / Hero A",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Sewer Speedway",
+        "course": {
+          "rank": "55",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "8 / Titan D",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "24",
+          "version": "PAL",
+          "standard": "0 / GOD",
+          "updated_standard": "6 / Titan B",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Dingo Canyon",
+        "course": {
+          "rank": "45",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "9 / Hero A",
+          "driver": "Tiny Tiger"
+        },
+        "lap": {
+          "rank": "22",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "7 / Titan C",
+          "driver": "Papu Papu"
+        }
+      },
+      {
+        "name": "Papu Pyramid",
+        "course": {
+          "rank": "8",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "5 / Titan A",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "9",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "1 / Myth A",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Dragon Mines",
+        "course": {
+          "rank": "63",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "10 / Hero B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "25",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "7 / Titan C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Polar Pass",
+        "course": {
+          "rank": "37",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "8 / Titan D",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "38",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "7 / Titan C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Cortex Castle",
+        "course": {
+          "rank": "68",
+          "version": "PAL",
+          "standard": "0 / GOD",
+          "updated_standard": "9 / Hero A",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "58",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "9 / Hero A",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Tiny Arena",
+        "course": {
+          "rank": "12",
+          "version": "PAL",
+          "standard": "0 / GOD",
+          "updated_standard": "2 / Myth B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "5",
+          "version": "PAL",
+          "standard": "0 / GOD",
+          "updated_standard": "-4 / GOD+4",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Hot Air Skyway",
+        "course": {
+          "rank": "27",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "7 / Titan C",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "9",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "2 / Myth B",
+          "driver": "Pura"
+        }
+      },
+      {
+        "name": "N.Gin Labs",
+        "course": {
+          "rank": "67",
+          "version": "PAL",
+          "standard": "0 / GOD",
+          "updated_standard": "9 / Hero A",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "49",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "8 / Titan D",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Oxide Station",
+        "course": {
+          "rank": "43",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "9 / Hero A",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "3",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "-4 / GOD+4",
+          "driver": "N.Gin"
+        }
+      },
+      {
+        "name": "Slide Coliseum",
+        "course": {
+          "rank": "27",
+          "version": "PAL",
+          "standard": "0 / GOD",
+          "updated_standard": "10 / Hero B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "17",
+          "version": "PAL",
+          "standard": "0 / GOD",
+          "updated_standard": "7 / Titan C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Turbo Track",
+        "course": {
+          "rank": "69",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "10 / Hero B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "19",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "6 / Titan B",
+          "driver": "Penta Penguin"
+        }
+      }
+    ]
+  },
+  {
+    "id": 25,
     "speudo": "xm24",
     "country": "Italy",
     "age": "30",
@@ -7584,7 +7900,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 26,
     "speudo": "Redhotbr",
     "country": "Brazil",
     "age": "23",
@@ -7652,7 +7968,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "24",
+          "rank": "25",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
@@ -7894,322 +8210,6 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
-          "driver": "Penta Penguin"
-        }
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "speudo": "Alessandro Mastroianni",
-    "country": "Italy",
-    "age": "26",
-    "description": "I’m the master of my fate, captain of my soul",
-    "pid": "player.php?pid=284",
-    "track": [
-      {
-        "name": "Crash Cove",
-        "course": {
-          "rank": "5",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "3 / Myth C",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "4",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "4 / Myth D",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Roo Tubes",
-        "course": {
-          "rank": "25",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "5 / Titan A",
-          "driver": "Tiny Tiger"
-        },
-        "lap": {
-          "rank": "16",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "4 / Myth D",
-          "driver": "Tiny Tiger"
-        }
-      },
-      {
-        "name": "Tiger Temple",
-        "course": {
-          "rank": "50",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "9 / Hero A",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "34",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "7 / Titan C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Coco Park",
-        "course": {
-          "rank": "54",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "9 / Hero A",
-          "driver": "Tiny Tiger"
-        },
-        "lap": {
-          "rank": "26",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "6 / Titan B",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Mystery Caves",
-        "course": {
-          "rank": "28",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "6 / Titan B",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "9",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "3 / Myth C",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Blizzard Bluff",
-        "course": {
-          "rank": "49",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "8 / Titan D",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "45",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "9 / Hero A",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Sewer Speedway",
-        "course": {
-          "rank": "55",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "8 / Titan D",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "24",
-          "version": "PAL",
-          "standard": "0 / GOD",
-          "updated_standard": "6 / Titan B",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Dingo Canyon",
-        "course": {
-          "rank": "45",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "9 / Hero A",
-          "driver": "Tiny Tiger"
-        },
-        "lap": {
-          "rank": "22",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "7 / Titan C",
-          "driver": "Papu Papu"
-        }
-      },
-      {
-        "name": "Papu Pyramid",
-        "course": {
-          "rank": "8",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "5 / Titan A",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "9",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "1 / Myth A",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Dragon Mines",
-        "course": {
-          "rank": "63",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "10 / Hero B",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "25",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "7 / Titan C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Polar Pass",
-        "course": {
-          "rank": "37",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "8 / Titan D",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "38",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "7 / Titan C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Cortex Castle",
-        "course": {
-          "rank": "68",
-          "version": "PAL",
-          "standard": "0 / GOD",
-          "updated_standard": "9 / Hero A",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "58",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "9 / Hero A",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Tiny Arena",
-        "course": {
-          "rank": "12",
-          "version": "PAL",
-          "standard": "0 / GOD",
-          "updated_standard": "2 / Myth B",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "5",
-          "version": "PAL",
-          "standard": "0 / GOD",
-          "updated_standard": "-4 / GOD+4",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Hot Air Skyway",
-        "course": {
-          "rank": "27",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "7 / Titan C",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "9",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "2 / Myth B",
-          "driver": "Pura"
-        }
-      },
-      {
-        "name": "N.Gin Labs",
-        "course": {
-          "rank": "67",
-          "version": "PAL",
-          "standard": "0 / GOD",
-          "updated_standard": "9 / Hero A",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "49",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "8 / Titan D",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Oxide Station",
-        "course": {
-          "rank": "43",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "9 / Hero A",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "3",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "-4 / GOD+4",
-          "driver": "N.Gin"
-        }
-      },
-      {
-        "name": "Slide Coliseum",
-        "course": {
-          "rank": "27",
-          "version": "PAL",
-          "standard": "0 / GOD",
-          "updated_standard": "10 / Hero B",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "17",
-          "version": "PAL",
-          "standard": "0 / GOD",
-          "updated_standard": "7 / Titan C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Turbo Track",
-        "course": {
-          "rank": "69",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "10 / Hero B",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "19",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "6 / Titan B",
           "driver": "Penta Penguin"
         }
       }
@@ -9225,7 +9225,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "50",
+          "rank": "51",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -10173,7 +10173,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "51",
+          "rank": "52",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -10489,7 +10489,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "52",
+          "rank": "53",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -10805,7 +10805,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "47",
+          "rank": "48",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -11607,7 +11607,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "109",
+          "rank": "110",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -12239,7 +12239,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "110",
+          "rank": "111",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -13333,7 +13333,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "53",
+          "rank": "54",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -13656,7 +13656,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "20",
+          "rank": "21",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -13802,7 +13802,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "80",
+          "rank": "81",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -14281,7 +14281,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "48",
+          "rank": "49",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -15229,7 +15229,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "44",
+          "rank": "45",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -15545,7 +15545,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "54",
+          "rank": "55",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -16493,7 +16493,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "48",
+          "rank": "49",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "8 / Titan D",
@@ -16979,7 +16979,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "112",
+          "rank": "113",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -17594,7 +17594,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "77",
+          "rank": "78",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -18858,7 +18858,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "79",
+          "rank": "80",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -19174,7 +19174,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "87",
+          "rank": "88",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "13 / Master A",
@@ -19653,7 +19653,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "46",
+          "rank": "47",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "7 / Titan C",
@@ -19806,7 +19806,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "73",
+          "rank": "74",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -20455,7 +20455,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "103",
+          "rank": "104",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -20754,7 +20754,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "85",
+          "rank": "86",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "13 / Master A",
@@ -21070,7 +21070,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "81",
+          "rank": "82",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "13 / Master A",
@@ -21087,7 +21087,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "92",
+          "rank": "93",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -21702,7 +21702,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "77",
+          "rank": "78",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -22650,7 +22650,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "75",
+          "rank": "76",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -22966,7 +22966,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "83",
+          "rank": "84",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "13 / Master A",
@@ -23282,7 +23282,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "94",
+          "rank": "95",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -23598,7 +23598,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "86",
+          "rank": "87",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "13 / Master A",
@@ -23931,7 +23931,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "96",
+          "rank": "97",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -24230,7 +24230,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "76",
+          "rank": "77",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -24247,7 +24247,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "129",
+          "rank": "130",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -24563,7 +24563,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "99",
+          "rank": "100",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -25178,7 +25178,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "74",
+          "rank": "75",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -25494,7 +25494,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "84",
+          "rank": "85",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "13 / Master A",
@@ -25511,7 +25511,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "93",
+          "rank": "94",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -25810,7 +25810,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "101",
+          "rank": "102",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -25827,7 +25827,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "108",
+          "rank": "109",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -26126,7 +26126,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "92",
+          "rank": "93",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -26442,7 +26442,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "156",
+          "rank": "157",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -26459,7 +26459,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "171",
+          "rank": "172",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -26758,7 +26758,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "100",
+          "rank": "101",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -27074,7 +27074,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "143",
+          "rank": "144",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -27091,7 +27091,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "119",
+          "rank": "120",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -27706,7 +27706,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "91",
+          "rank": "92",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -28022,7 +28022,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "98",
+          "rank": "99",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "14 / Master B",
@@ -28338,7 +28338,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "93",
+          "rank": "94",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -28654,7 +28654,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "108",
+          "rank": "109",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -28970,7 +28970,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "108",
+          "rank": "109",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -29286,7 +29286,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "145",
+          "rank": "146",
           "version": "PAL",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -29602,7 +29602,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "96",
+          "rank": "97",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "14 / Master B",
@@ -29619,7 +29619,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "135",
+          "rank": "136",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "15 / Master C",
@@ -29918,7 +29918,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "114",
+          "rank": "115",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -30234,7 +30234,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "99",
+          "rank": "100",
           "version": "PAL",
           "standard": "4 / Titan D",
           "updated_standard": "14 / Master B",
@@ -30251,7 +30251,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "145",
+          "rank": "146",
           "version": "NTSC",
           "standard": "1 / Titan A",
           "updated_standard": "15 / Master C",
@@ -30550,7 +30550,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "134",
+          "rank": "135",
           "version": "NTSC",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -30567,7 +30567,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "96",
+          "rank": "97",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -30866,7 +30866,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "125",
+          "rank": "126",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -30883,7 +30883,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "116",
+          "rank": "117",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -31182,7 +31182,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "118",
+          "rank": "119",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -31498,7 +31498,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "183",
+          "rank": "184",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -31515,7 +31515,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "132",
+          "rank": "133",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "15 / Master C",
@@ -31814,7 +31814,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "111",
+          "rank": "112",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -31831,7 +31831,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "101",
+          "rank": "102",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -32130,7 +32130,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "133",
+          "rank": "134",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -32147,7 +32147,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "141",
+          "rank": "142",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "15 / Master C",
@@ -32446,7 +32446,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "129",
+          "rank": "130",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -32463,7 +32463,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "146",
+          "rank": "147",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "15 / Master C",
@@ -32762,7 +32762,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "89",
+          "rank": "90",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -32779,7 +32779,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "148",
+          "rank": "149",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "15 / Master C",
@@ -33078,7 +33078,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "157",
+          "rank": "158",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -33095,7 +33095,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "100",
+          "rank": "101",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -33394,7 +33394,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "124",
+          "rank": "125",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -33411,7 +33411,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "117",
+          "rank": "118",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -33710,7 +33710,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "102",
+          "rank": "103",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -33727,7 +33727,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "150",
+          "rank": "151",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "15 / Master C",
@@ -34026,7 +34026,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "132",
+          "rank": "133",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -34043,7 +34043,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "105",
+          "rank": "106",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -34342,7 +34342,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "104",
+          "rank": "105",
           "version": "NTSC",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -34359,7 +34359,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "104",
+          "rank": "105",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -34658,7 +34658,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "203",
+          "rank": "204",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -34675,7 +34675,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "125",
+          "rank": "126",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -34974,7 +34974,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "136",
+          "rank": "137",
           "version": "PAL",
           "standard": "7 / Hero C",
           "updated_standard": "15 / Master C",
@@ -34991,7 +34991,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "172",
+          "rank": "173",
           "version": "PAL",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -35290,7 +35290,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "150",
+          "rank": "151",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -35307,7 +35307,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "159",
+          "rank": "160",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "16 / Master D",
@@ -35606,7 +35606,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "131",
+          "rank": "132",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -35922,7 +35922,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "106",
+          "rank": "107",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -35939,7 +35939,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "107",
+          "rank": "108",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -36238,7 +36238,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "218",
+          "rank": "219",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -36255,7 +36255,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "136",
+          "rank": "137",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "15 / Master C",
@@ -36554,7 +36554,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "128",
+          "rank": "129",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -36571,7 +36571,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "123",
+          "rank": "124",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -36870,7 +36870,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "105",
+          "rank": "106",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -36887,7 +36887,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "170",
+          "rank": "171",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -37186,7 +37186,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "103",
+          "rank": "104",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -37502,7 +37502,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "185",
+          "rank": "186",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -37519,7 +37519,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "118",
+          "rank": "119",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -37818,7 +37818,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "189",
+          "rank": "190",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -37835,7 +37835,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "131",
+          "rank": "132",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "15 / Master C",
@@ -38134,7 +38134,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "113",
+          "rank": "114",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -38151,7 +38151,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "157",
+          "rank": "158",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "16 / Master D",
@@ -38450,7 +38450,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "106",
+          "rank": "107",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -38467,7 +38467,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "147",
+          "rank": "148",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "15 / Master C",
@@ -38766,7 +38766,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "161",
+          "rank": "162",
           "version": "PAL",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -38783,7 +38783,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "127",
+          "rank": "128",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -39082,7 +39082,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "110",
+          "rank": "111",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -39099,7 +39099,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "156",
+          "rank": "157",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "16 / Master D",
@@ -39398,7 +39398,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "137",
+          "rank": "138",
           "version": "PAL",
           "standard": "7 / Hero C",
           "updated_standard": "15 / Master C",
@@ -39415,7 +39415,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "113",
+          "rank": "114",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -39714,7 +39714,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "116",
+          "rank": "117",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -39731,7 +39731,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "182",
+          "rank": "183",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -40030,7 +40030,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "168",
+          "rank": "169",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -40047,7 +40047,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "149",
+          "rank": "150",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "15 / Master C",
@@ -40346,7 +40346,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "178",
+          "rank": "179",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -40363,7 +40363,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "233",
+          "rank": "234",
           "version": "PAL",
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
@@ -40662,7 +40662,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "151",
+          "rank": "152",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -40679,7 +40679,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "174",
+          "rank": "175",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -40978,7 +40978,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "119",
+          "rank": "120",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -40995,7 +40995,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "162",
+          "rank": "163",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "16 / Master D",
@@ -41294,7 +41294,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "121",
+          "rank": "122",
           "version": "PAL",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -41311,7 +41311,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "215",
+          "rank": "216",
           "version": "PAL",
           "standard": "14 / Advance B",
           "updated_standard": "19 / Expert C",
@@ -41610,7 +41610,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "117",
+          "rank": "118",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -41627,7 +41627,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "139",
+          "rank": "140",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "15 / Master C",
@@ -41926,7 +41926,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "182",
+          "rank": "183",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -41943,7 +41943,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "161",
+          "rank": "162",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "16 / Master D",
@@ -42242,7 +42242,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "126",
+          "rank": "127",
           "version": "PAL",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -42259,7 +42259,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "122",
+          "rank": "123",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -42558,7 +42558,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "112",
+          "rank": "113",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -42575,7 +42575,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "213",
+          "rank": "214",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "19 / Expert C",
@@ -42874,7 +42874,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "96",
+          "rank": "97",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "14 / Master B",
@@ -42891,7 +42891,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "288",
+          "rank": "289",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -43190,7 +43190,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "129",
+          "rank": "130",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -43207,7 +43207,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "179",
+          "rank": "180",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -43506,7 +43506,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "138",
+          "rank": "139",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "15 / Master C",
@@ -43523,7 +43523,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "200",
+          "rank": "201",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "18 / Expert B",
@@ -43822,7 +43822,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "120",
+          "rank": "121",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -43839,7 +43839,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "173",
+          "rank": "174",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -44138,7 +44138,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "144",
+          "rank": "145",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -44454,7 +44454,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "164",
+          "rank": "165",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -44471,7 +44471,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "144",
+          "rank": "145",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "15 / Master C",
@@ -44770,7 +44770,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "213",
+          "rank": "214",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -44787,7 +44787,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "168",
+          "rank": "169",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -45086,7 +45086,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "149",
+          "rank": "150",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -45103,7 +45103,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "175",
+          "rank": "176",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -45402,7 +45402,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "177",
+          "rank": "178",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -45419,7 +45419,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "142",
+          "rank": "143",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "15 / Master C",
@@ -45718,7 +45718,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "154",
+          "rank": "155",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -45735,7 +45735,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "158",
+          "rank": "159",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "16 / Master D",
@@ -46034,7 +46034,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "179",
+          "rank": "180",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -46051,7 +46051,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "151",
+          "rank": "152",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "15 / Master C",
@@ -46350,7 +46350,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "127",
+          "rank": "128",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -46367,7 +46367,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "223",
+          "rank": "224",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "19 / Expert C",
@@ -46666,7 +46666,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "165",
+          "rank": "166",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -46683,7 +46683,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "245",
+          "rank": "246",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
@@ -46982,7 +46982,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "195",
+          "rank": "196",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -46999,7 +46999,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "110",
+          "rank": "111",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -47298,7 +47298,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "248",
+          "rank": "249",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -47315,7 +47315,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "153",
+          "rank": "154",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "15 / Master C",
@@ -47614,7 +47614,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "166",
+          "rank": "167",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -47631,7 +47631,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "241",
+          "rank": "242",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
@@ -47930,7 +47930,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "145",
+          "rank": "146",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -47947,7 +47947,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "211",
+          "rank": "212",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "19 / Expert C",
@@ -48246,7 +48246,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "153",
+          "rank": "154",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -48263,7 +48263,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "197",
+          "rank": "198",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "18 / Expert B",
@@ -48562,7 +48562,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "193",
+          "rank": "194",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -48579,7 +48579,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "184",
+          "rank": "185",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -48878,7 +48878,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "197",
+          "rank": "198",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -48895,7 +48895,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "242",
+          "rank": "243",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
@@ -49194,7 +49194,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "175",
+          "rank": "176",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -49211,7 +49211,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "257",
+          "rank": "258",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -49510,7 +49510,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "167",
+          "rank": "168",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -49527,7 +49527,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "176",
+          "rank": "177",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
@@ -49826,7 +49826,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "283",
+          "rank": "284",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -49843,7 +49843,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "114",
+          "rank": "115",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -50142,7 +50142,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "188",
+          "rank": "189",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -50159,7 +50159,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "124",
+          "rank": "125",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -50458,7 +50458,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "209",
+          "rank": "210",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -50475,7 +50475,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "181",
+          "rank": "182",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -50774,7 +50774,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "315",
+          "rank": "316",
           "version": "NTSC",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -50791,7 +50791,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "143",
+          "rank": "144",
           "version": "NTSC",
           "standard": "1 / Titan A",
           "updated_standard": "15 / Master C",
@@ -51090,7 +51090,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "275",
+          "rank": "276",
           "version": "NTSC",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -51107,7 +51107,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "169",
+          "rank": "170",
           "version": "NTSC",
           "standard": "7 / Hero C",
           "updated_standard": "17 / Expert A",
@@ -51406,7 +51406,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "176",
+          "rank": "177",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -51423,7 +51423,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "183",
+          "rank": "184",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -51722,7 +51722,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "351",
+          "rank": "352",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "23 / Advance C",
@@ -51739,7 +51739,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "140",
+          "rank": "141",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "15 / Master C",
@@ -52038,7 +52038,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "202",
+          "rank": "203",
           "version": "PAL",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -52055,7 +52055,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "154",
+          "rank": "155",
           "version": "PAL",
           "standard": "4 / Titan D",
           "updated_standard": "16 / Master D",
@@ -52354,7 +52354,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "207",
+          "rank": "208",
           "version": "PAL",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -52371,7 +52371,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "94",
+          "rank": "95",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -52670,7 +52670,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "173",
+          "rank": "174",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -52687,7 +52687,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "178",
+          "rank": "179",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -52986,7 +52986,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "169",
+          "rank": "170",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -53003,7 +53003,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "126",
+          "rank": "127",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -53302,7 +53302,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "242",
+          "rank": "243",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -53319,7 +53319,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "191",
+          "rank": "192",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "18 / Expert B",
@@ -53618,7 +53618,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "191",
+          "rank": "192",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -53635,7 +53635,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "270",
+          "rank": "271",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -53934,7 +53934,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "205",
+          "rank": "206",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -53951,7 +53951,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "195",
+          "rank": "196",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "18 / Expert B",
@@ -54250,7 +54250,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "292",
+          "rank": "293",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -54267,7 +54267,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "187",
+          "rank": "188",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "17 / Expert A",
@@ -54566,7 +54566,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "268",
+          "rank": "269",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -54583,7 +54583,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "206",
+          "rank": "207",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "19 / Expert C",
@@ -54882,7 +54882,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "171",
+          "rank": "172",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -54899,7 +54899,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "177",
+          "rank": "178",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -55198,7 +55198,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "230",
+          "rank": "231",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -55215,7 +55215,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "128",
+          "rank": "129",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -55514,7 +55514,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "243",
+          "rank": "244",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -55531,7 +55531,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "225",
+          "rank": "226",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "19 / Expert C",
@@ -55830,7 +55830,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "122",
+          "rank": "123",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -55847,7 +55847,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "327",
+          "rank": "328",
           "version": "N/A",
           "standard": "20 / Intermediate D",
           "updated_standard": "22 / Advance B",
@@ -56146,7 +56146,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "206",
+          "rank": "207",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -56163,7 +56163,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "224",
+          "rank": "225",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "19 / Expert C",
@@ -56462,7 +56462,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "184",
+          "rank": "185",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -56479,7 +56479,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "120",
+          "rank": "121",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -56778,7 +56778,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "160",
+          "rank": "161",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -56795,7 +56795,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "167",
+          "rank": "168",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -57094,7 +57094,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "219",
+          "rank": "220",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -57111,7 +57111,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "189",
+          "rank": "190",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "18 / Expert B",
@@ -57410,7 +57410,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "163",
+          "rank": "164",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -57427,7 +57427,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "219",
+          "rank": "220",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "19 / Expert C",
@@ -57726,7 +57726,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "208",
+          "rank": "209",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -57743,7 +57743,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "227",
+          "rank": "228",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "19 / Expert C",
@@ -58042,7 +58042,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "140",
+          "rank": "141",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -58059,7 +58059,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "214",
+          "rank": "215",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "19 / Expert C",
@@ -58358,7 +58358,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "212",
+          "rank": "213",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -58375,7 +58375,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "137",
+          "rank": "138",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "15 / Master C",
@@ -58674,7 +58674,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "190",
+          "rank": "191",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -58691,7 +58691,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "186",
+          "rank": "187",
           "version": "PAL",
           "standard": "10 / Expert B",
           "updated_standard": "17 / Expert A",
@@ -58990,7 +58990,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "245",
+          "rank": "246",
           "version": "PAL",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -59007,7 +59007,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "279",
+          "rank": "280",
           "version": "PAL",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -59306,7 +59306,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "267",
+          "rank": "268",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -59323,7 +59323,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "199",
+          "rank": "200",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "18 / Expert B",
@@ -59622,7 +59622,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "254",
+          "rank": "255",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -59639,7 +59639,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "163",
+          "rank": "164",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "16 / Master D",
@@ -59938,7 +59938,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "222",
+          "rank": "223",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -59955,7 +59955,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "217",
+          "rank": "218",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "19 / Expert C",
@@ -60254,7 +60254,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "240",
+          "rank": "241",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -60271,7 +60271,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "292",
+          "rank": "293",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -60570,7 +60570,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "115",
+          "rank": "116",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "15 / Master C",
@@ -60587,7 +60587,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "266",
+          "rank": "267",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -60886,7 +60886,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "250",
+          "rank": "251",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -60903,7 +60903,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "133",
+          "rank": "134",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "15 / Master C",
@@ -61202,7 +61202,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "204",
+          "rank": "205",
           "version": "PAL",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -61219,7 +61219,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "412",
+          "rank": "413",
           "version": "PAL",
           "standard": "23 / Beginner C",
           "updated_standard": "25 / Intermediate A",
@@ -61518,7 +61518,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "199",
+          "rank": "200",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -61535,7 +61535,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "180",
+          "rank": "181",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -61834,7 +61834,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "148",
+          "rank": "149",
           "version": "N/A",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
@@ -61851,7 +61851,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "194",
+          "rank": "195",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "18 / Expert B",
@@ -62150,7 +62150,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "214",
+          "rank": "215",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -62167,7 +62167,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "206",
+          "rank": "207",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "19 / Expert C",
@@ -62466,7 +62466,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "304",
+          "rank": "305",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -62483,7 +62483,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "228",
+          "rank": "229",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "19 / Expert C",
@@ -62782,7 +62782,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "220",
+          "rank": "221",
           "version": "PAL",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -62799,7 +62799,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "248",
+          "rank": "249",
           "version": "PAL",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -63098,7 +63098,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "324",
+          "rank": "325",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -63115,7 +63115,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "247",
+          "rank": "248",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
@@ -63414,7 +63414,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "269",
+          "rank": "270",
           "version": "NTSC",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -63431,7 +63431,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "188",
+          "rank": "189",
           "version": "NTSC",
           "standard": "11 / Expert C",
           "updated_standard": "18 / Expert B",
@@ -63730,7 +63730,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "258",
+          "rank": "259",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -63747,7 +63747,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "192",
+          "rank": "193",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "18 / Expert B",
@@ -64046,7 +64046,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "255",
+          "rank": "256",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -64063,7 +64063,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "235",
+          "rank": "236",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
@@ -64362,7 +64362,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "247",
+          "rank": "248",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -64379,7 +64379,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "363",
+          "rank": "364",
           "version": "N/A",
           "standard": "22 / Beginner B",
           "updated_standard": "24 / Advance D",
@@ -64678,7 +64678,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "238",
+          "rank": "239",
           "version": "NTSC",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -64994,7 +64994,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "221",
+          "rank": "222",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -65011,7 +65011,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "196",
+          "rank": "197",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "18 / Expert B",
@@ -65310,7 +65310,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "318",
+          "rank": "319",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -65327,7 +65327,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "350",
+          "rank": "351",
           "version": "N/A",
           "standard": "21 / Beginner A",
           "updated_standard": "23 / Advance C",
@@ -65626,7 +65626,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "232",
+          "rank": "233",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -65643,7 +65643,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "362",
+          "rank": "363",
           "version": "N/A",
           "standard": "21 / Beginner A",
           "updated_standard": "24 / Advance D",
@@ -65942,7 +65942,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "246",
+          "rank": "247",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -65959,7 +65959,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "280",
+          "rank": "281",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -66258,7 +66258,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "235",
+          "rank": "236",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -66275,7 +66275,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "271",
+          "rank": "272",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "21 / Advance A",
@@ -66574,7 +66574,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "186",
+          "rank": "187",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -66591,7 +66591,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "204",
+          "rank": "205",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "19 / Expert C",
@@ -66890,7 +66890,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "198",
+          "rank": "199",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -66907,7 +66907,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "220",
+          "rank": "221",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "19 / Expert C",
@@ -67206,7 +67206,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "289",
+          "rank": "290",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -67223,7 +67223,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "282",
+          "rank": "283",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -67522,7 +67522,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "326",
+          "rank": "327",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -67539,7 +67539,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "274",
+          "rank": "275",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "21 / Advance A",
@@ -67838,7 +67838,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "244",
+          "rank": "245",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -67855,7 +67855,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "263",
+          "rank": "264",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -68154,7 +68154,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "170",
+          "rank": "171",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -68171,7 +68171,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "115",
+          "rank": "116",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -68470,7 +68470,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "388",
+          "rank": "389",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "24 / Advance D",
@@ -68487,7 +68487,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "208",
+          "rank": "209",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "19 / Expert C",
@@ -68786,7 +68786,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "224",
+          "rank": "225",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -68803,7 +68803,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "302",
+          "rank": "303",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -69102,7 +69102,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "287",
+          "rank": "288",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -69119,7 +69119,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "160",
+          "rank": "161",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "16 / Master D",
@@ -69418,7 +69418,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "159",
+          "rank": "160",
           "version": "N/A",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
@@ -69435,7 +69435,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "289",
+          "rank": "290",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -69734,7 +69734,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "192",
+          "rank": "193",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -69751,7 +69751,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "281",
+          "rank": "282",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -70050,7 +70050,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "194",
+          "rank": "195",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -70067,7 +70067,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "278",
+          "rank": "279",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -70366,7 +70366,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "252",
+          "rank": "253",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -70383,7 +70383,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "298",
+          "rank": "299",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -70682,7 +70682,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "200",
+          "rank": "201",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -70699,7 +70699,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "254",
+          "rank": "255",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -70998,7 +70998,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "337",
+          "rank": "338",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -71015,7 +71015,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "313",
+          "rank": "314",
           "version": "N/A",
           "standard": "19 / Intermediate C",
           "updated_standard": "22 / Advance B",
@@ -71314,7 +71314,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "250",
+          "rank": "251",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -71331,7 +71331,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "203",
+          "rank": "204",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "18 / Expert B",
@@ -71630,7 +71630,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "201",
+          "rank": "202",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -71647,7 +71647,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "252",
+          "rank": "253",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -71946,7 +71946,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "179",
+          "rank": "180",
           "version": "N/A",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
@@ -71963,7 +71963,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "229",
+          "rank": "230",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "19 / Expert C",
@@ -72262,7 +72262,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "210",
+          "rank": "211",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -72279,7 +72279,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "267",
+          "rank": "268",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -72578,7 +72578,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "342",
+          "rank": "343",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "23 / Advance C",
@@ -72595,7 +72595,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "282",
+          "rank": "283",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -72894,7 +72894,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "273",
+          "rank": "274",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -72911,7 +72911,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "296",
+          "rank": "297",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -73210,7 +73210,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "281",
+          "rank": "282",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -73227,7 +73227,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "294",
+          "rank": "295",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -73526,7 +73526,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "341",
+          "rank": "342",
           "version": "PAL",
           "standard": "15 / Advance C",
           "updated_standard": "23 / Advance C",
@@ -73543,7 +73543,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "263",
+          "rank": "264",
           "version": "PAL",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -73842,7 +73842,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "298",
+          "rank": "299",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -73859,7 +73859,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "237",
+          "rank": "238",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
@@ -74158,7 +74158,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "259",
+          "rank": "260",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -74175,7 +74175,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "251",
+          "rank": "252",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -74474,7 +74474,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "278",
+          "rank": "279",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -74491,7 +74491,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "210",
+          "rank": "211",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "19 / Expert C",
@@ -74790,7 +74790,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "236",
+          "rank": "237",
           "version": "PAL",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -74807,7 +74807,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "106",
+          "rank": "107",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
@@ -75106,7 +75106,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "271",
+          "rank": "272",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -75123,7 +75123,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "404",
+          "rank": "405",
           "version": "N/A",
           "standard": "23 / Beginner C",
           "updated_standard": "25 / Intermediate A",
@@ -75422,7 +75422,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "256",
+          "rank": "257",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -75439,7 +75439,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "304",
+          "rank": "305",
           "version": "N/A",
           "standard": "19 / Intermediate C",
           "updated_standard": "21 / Advance A",
@@ -75738,7 +75738,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "303",
+          "rank": "304",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -75755,7 +75755,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "130",
+          "rank": "131",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -76054,7 +76054,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "299",
+          "rank": "300",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -76071,7 +76071,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "231",
+          "rank": "232",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "19 / Expert C",
@@ -76370,7 +76370,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "285",
+          "rank": "286",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -76387,7 +76387,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "152",
+          "rank": "153",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "15 / Master C",
@@ -76686,7 +76686,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "263",
+          "rank": "264",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -76703,7 +76703,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "232",
+          "rank": "233",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
@@ -77002,7 +77002,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "390",
+          "rank": "391",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "24 / Advance D",
@@ -77019,7 +77019,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "338",
+          "rank": "339",
           "version": "N/A",
           "standard": "20 / Intermediate D",
           "updated_standard": "23 / Advance C",
@@ -77318,7 +77318,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "288",
+          "rank": "289",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -77335,7 +77335,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "212",
+          "rank": "213",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "19 / Expert C",
@@ -77634,7 +77634,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "316",
+          "rank": "317",
           "version": "PAL",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -77651,7 +77651,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "293",
+          "rank": "294",
           "version": "PAL",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -77950,7 +77950,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "299",
+          "rank": "300",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -77967,7 +77967,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "138",
+          "rank": "139",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "15 / Master C",
@@ -78266,7 +78266,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "294",
+          "rank": "295",
           "version": "PAL",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -78283,7 +78283,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "198",
+          "rank": "199",
           "version": "PAL",
           "standard": "12 / Expert D",
           "updated_standard": "18 / Expert B",
@@ -78582,7 +78582,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "253",
+          "rank": "254",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -78599,7 +78599,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "337",
+          "rank": "338",
           "version": "N/A",
           "standard": "20 / Intermediate D",
           "updated_standard": "23 / Advance C",
@@ -78898,7 +78898,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "234",
+          "rank": "235",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -78915,7 +78915,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "263",
+          "rank": "264",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -79214,7 +79214,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "308",
+          "rank": "309",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -79231,7 +79231,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "253",
+          "rank": "254",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -79530,7 +79530,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "239",
+          "rank": "240",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -79547,7 +79547,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "243",
+          "rank": "244",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
@@ -79846,7 +79846,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "223",
+          "rank": "224",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -79863,7 +79863,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "234",
+          "rank": "235",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
@@ -80162,7 +80162,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "415",
+          "rank": "416",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "25 / Intermediate A",
@@ -80179,7 +80179,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "309",
+          "rank": "310",
           "version": "N/A",
           "standard": "19 / Intermediate C",
           "updated_standard": "22 / Advance B",
@@ -80478,7 +80478,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "236",
+          "rank": "237",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -80495,7 +80495,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "201",
+          "rank": "202",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "18 / Expert B",
@@ -80794,7 +80794,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "311",
+          "rank": "312",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -80811,7 +80811,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "437",
+          "rank": "438",
           "version": "N/A",
           "standard": "24 / Beginner D",
           "updated_standard": "26 / Intermediate B",
@@ -81110,7 +81110,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "338",
+          "rank": "339",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -81127,7 +81127,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "321",
+          "rank": "322",
           "version": "N/A",
           "standard": "19 / Intermediate C",
           "updated_standard": "22 / Advance B",
@@ -81426,7 +81426,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "228",
+          "rank": "229",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -81443,7 +81443,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "384",
+          "rank": "385",
           "version": "N/A",
           "standard": "22 / Beginner B",
           "updated_standard": "25 / Intermediate A",
@@ -81742,7 +81742,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "310",
+          "rank": "311",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -81759,7 +81759,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "272",
+          "rank": "273",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "21 / Advance A",
@@ -82058,7 +82058,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "302",
+          "rank": "303",
           "version": "PAL",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -82075,7 +82075,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "295",
+          "rank": "296",
           "version": "PAL",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -82374,7 +82374,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "309",
+          "rank": "310",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -82391,7 +82391,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "249",
+          "rank": "250",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -82690,7 +82690,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "354",
+          "rank": "355",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "23 / Advance C",
@@ -82707,7 +82707,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "193",
+          "rank": "194",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "18 / Expert B",
@@ -83006,7 +83006,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "274",
+          "rank": "275",
           "version": "PAL",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -83023,7 +83023,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "277",
+          "rank": "278",
           "version": "PAL",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -83322,7 +83322,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "277",
+          "rank": "278",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -83339,7 +83339,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "317",
+          "rank": "318",
           "version": "N/A",
           "standard": "19 / Intermediate C",
           "updated_standard": "22 / Advance B",
@@ -83638,7 +83638,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "394",
+          "rank": "395",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "24 / Advance D",
@@ -83655,7 +83655,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "369",
+          "rank": "370",
           "version": "N/A",
           "standard": "22 / Beginner B",
           "updated_standard": "24 / Advance D",
@@ -83954,7 +83954,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "357",
+          "rank": "358",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "23 / Advance C",
@@ -83971,7 +83971,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "269",
+          "rank": "270",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -84270,7 +84270,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "262",
+          "rank": "263",
           "version": "PAL",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -84287,7 +84287,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "220",
+          "rank": "221",
           "version": "PAL",
           "standard": "15 / Advance C",
           "updated_standard": "19 / Expert C",
@@ -84586,7 +84586,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "265",
+          "rank": "266",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -84603,7 +84603,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "250",
+          "rank": "251",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -84902,7 +84902,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "286",
+          "rank": "287",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -84919,7 +84919,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "376",
+          "rank": "377",
           "version": "N/A",
           "standard": "22 / Beginner B",
           "updated_standard": "24 / Advance D",
@@ -85218,7 +85218,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "295",
+          "rank": "296",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -85235,7 +85235,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "344",
+          "rank": "345",
           "version": "N/A",
           "standard": "21 / Beginner A",
           "updated_standard": "23 / Advance C",
@@ -85534,7 +85534,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "233",
+          "rank": "234",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -85551,7 +85551,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "222",
+          "rank": "223",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "19 / Expert C",
@@ -85850,7 +85850,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "266",
+          "rank": "267",
           "version": "PAL",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -85867,7 +85867,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "209",
+          "rank": "210",
           "version": "PAL",
           "standard": "13 / Advance A",
           "updated_standard": "19 / Expert C",
@@ -86166,7 +86166,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "284",
+          "rank": "285",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -86183,7 +86183,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "312",
+          "rank": "313",
           "version": "N/A",
           "standard": "19 / Intermediate C",
           "updated_standard": "22 / Advance B",
@@ -86482,7 +86482,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "340",
+          "rank": "341",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -86499,7 +86499,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "255",
+          "rank": "256",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -86798,7 +86798,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "398",
+          "rank": "399",
           "version": "PAL",
           "standard": "17 / Intermediate A",
           "updated_standard": "25 / Intermediate A",
@@ -86815,7 +86815,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "392",
+          "rank": "393",
           "version": "N/A",
           "standard": "22 / Beginner B",
           "updated_standard": "25 / Intermediate A",
@@ -87114,7 +87114,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "360",
+          "rank": "361",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "23 / Advance C",
@@ -87131,7 +87131,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "369",
+          "rank": "370",
           "version": "N/A",
           "standard": "22 / Beginner B",
           "updated_standard": "24 / Advance D",
@@ -87430,7 +87430,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "392",
+          "rank": "393",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "24 / Advance D",
@@ -87447,7 +87447,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "316",
+          "rank": "317",
           "version": "N/A",
           "standard": "19 / Intermediate C",
           "updated_standard": "22 / Advance B",
@@ -87746,7 +87746,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "305",
+          "rank": "306",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -87763,7 +87763,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "287",
+          "rank": "288",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "21 / Advance A",
@@ -88062,7 +88062,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "366",
+          "rank": "367",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "23 / Advance C",
@@ -88079,7 +88079,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "380",
+          "rank": "381",
           "version": "N/A",
           "standard": "22 / Beginner B",
           "updated_standard": "24 / Advance D",
@@ -88378,7 +88378,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "347",
+          "rank": "348",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "23 / Advance C",
@@ -88395,7 +88395,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "333",
+          "rank": "334",
           "version": "N/A",
           "standard": "20 / Intermediate D",
           "updated_standard": "22 / Advance B",
@@ -88694,7 +88694,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "334",
+          "rank": "335",
           "version": "PAL",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -88711,7 +88711,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "307",
+          "rank": "308",
           "version": "PAL",
           "standard": "19 / Intermediate C",
           "updated_standard": "22 / Advance B",
@@ -89010,7 +89010,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "386",
+          "rank": "387",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "24 / Advance D",
@@ -89027,7 +89027,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "121",
+          "rank": "122",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
@@ -89326,7 +89326,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "293",
+          "rank": "294",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -89343,7 +89343,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "307",
+          "rank": "308",
           "version": "N/A",
           "standard": "19 / Intermediate C",
           "updated_standard": "22 / Advance B",
@@ -89642,7 +89642,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "444",
+          "rank": "445",
           "version": "N/A",
           "standard": "18 / Intermediate B",
           "updated_standard": "26 / Intermediate B",
@@ -89659,7 +89659,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "260",
+          "rank": "261",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -89958,7 +89958,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "226",
+          "rank": "227",
           "version": "N/A",
           "standard": "11 / Expert C",
           "updated_standard": "19 / Expert C",
@@ -89975,7 +89975,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "351",
+          "rank": "352",
           "version": "N/A",
           "standard": "21 / Beginner A",
           "updated_standard": "23 / Advance C",
@@ -90274,7 +90274,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "335",
+          "rank": "336",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -90291,7 +90291,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "432",
+          "rank": "433",
           "version": "N/A",
           "standard": "24 / Beginner D",
           "updated_standard": "26 / Intermediate B",
@@ -90590,7 +90590,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "297",
+          "rank": "298",
           "version": "N/A",
           "standard": "13 / Advance A",
           "updated_standard": "21 / Advance A",
@@ -90607,7 +90607,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "343",
+          "rank": "344",
           "version": "N/A",
           "standard": "21 / Beginner A",
           "updated_standard": "23 / Advance C",
@@ -90906,7 +90906,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "389",
+          "rank": "390",
           "version": "N/A",
           "standard": "16 / Advance D",
           "updated_standard": "24 / Advance D",
@@ -90923,7 +90923,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "449",
+          "rank": "450",
           "version": "N/A",
           "standard": "25 / Newbie",
           "updated_standard": "27 / Intermediate C",
@@ -91222,7 +91222,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "312",
+          "rank": "313",
           "version": "N/A",
           "standard": "14 / Advance B",
           "updated_standard": "22 / Advance B",
@@ -91239,7 +91239,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "393",
+          "rank": "394",
           "version": "N/A",
           "standard": "22 / Beginner B",
           "updated_standard": "25 / Intermediate A",
@@ -91538,7 +91538,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "217",
+          "rank": "218",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -91555,7 +91555,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "418",
+          "rank": "419",
           "version": "N/A",
           "standard": "24 / Beginner D",
           "updated_standard": "26 / Intermediate B",
@@ -91854,7 +91854,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "344",
+          "rank": "345",
           "version": "NTSC",
           "standard": "15 / Advance C",
           "updated_standard": "23 / Advance C",
@@ -91871,7 +91871,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "246",
+          "rank": "247",
           "version": "NTSC",
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
@@ -92170,7 +92170,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "260",
+          "rank": "261",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -92187,7 +92187,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "329",
+          "rank": "330",
           "version": "N/A",
           "standard": "20 / Intermediate D",
           "updated_standard": "22 / Advance B",
@@ -92486,7 +92486,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "345",
+          "rank": "346",
           "version": "N/A",
           "standard": "15 / Advance C",
           "updated_standard": "23 / Advance C",
@@ -92503,7 +92503,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "368",
+          "rank": "369",
           "version": "N/A",
           "standard": "22 / Beginner B",
           "updated_standard": "24 / Advance D",
@@ -92802,7 +92802,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "374",
+          "rank": "375",
           "version": "PAL",
           "standard": "16 / Advance D",
           "updated_standard": "24 / Advance D",
@@ -92819,7 +92819,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "458",
+          "rank": "459",
           "version": "PAL",
           "standard": "25 / Newbie",
           "updated_standard": "28 / Intermediate D",
@@ -93118,7 +93118,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "270",
+          "rank": "271",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -93135,7 +93135,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "267",
+          "rank": "268",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -93434,7 +93434,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "410",
+          "rank": "411",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "25 / Intermediate A",
@@ -93451,7 +93451,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "354",
+          "rank": "355",
           "version": "N/A",
           "standard": "21 / Beginner A",
           "updated_standard": "24 / Advance D",
@@ -93750,7 +93750,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "257",
+          "rank": "258",
           "version": "N/A",
           "standard": "12 / Expert D",
           "updated_standard": "20 / Expert D",
@@ -93767,7 +93767,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "258",
+          "rank": "259",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "20 / Expert D",
@@ -94066,7 +94066,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "440",
+          "rank": "441",
           "version": "NTSC",
           "standard": "18 / Intermediate B",
           "updated_standard": "26 / Intermediate B",
@@ -94083,7 +94083,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "408",
+          "rank": "409",
           "version": "N/A",
           "standard": "23 / Beginner C",
           "updated_standard": "25 / Intermediate A",
@@ -94382,7 +94382,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "402",
+          "rank": "403",
           "version": "N/A",
           "standard": "17 / Intermediate A",
           "updated_standard": "25 / Intermediate A",
@@ -94399,7 +94399,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "325",
+          "rank": "326",
           "version": "N/A",
           "standard": "20 / Intermediate D",
           "updated_standard": "22 / Advance B",
@@ -94698,7 +94698,7 @@
       {
         "name": "Tiny Arena",
         "course": {
-          "rank": "216",
+          "rank": "217",
           "version": "N/A",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
@@ -94715,7 +94715,7 @@
       {
         "name": "Hot Air Skyway",
         "course": {
-          "rank": "435",
+          "rank": "436",
           "version": "N/A",
           "standard": "24 / Beginner D",
           "updated_standard": "26 / Intermediate B",
