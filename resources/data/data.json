@@ -12073,14 +12073,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "6 / Titan B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "N.Tropy"
         },
         "lap": {
           "rank": "54",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "N.Tropy"
         }
       },
       {
@@ -22820,7 +22820,7 @@
           "driver": "Papu Papu"
         },
         "lap": {
-          "rank": "120",
+          "rank": "121",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "15 / Master C",
@@ -27244,7 +27244,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "125",
+          "rank": "126",
           "version": "NTSC",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -27560,7 +27560,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "127",
+          "rank": "128",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -29456,7 +29456,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "124",
+          "rank": "125",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "15 / Master C",
@@ -31984,7 +31984,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "122",
+          "rank": "123",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "15 / Master C",
@@ -32616,7 +32616,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "122",
+          "rank": "123",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "15 / Master C",
@@ -33248,7 +33248,7 @@
           "driver": "Tiny Tiger"
         },
         "lap": {
-          "rank": "132",
+          "rank": "133",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "16 / Master D",
@@ -34189,17 +34189,17 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "139",
+          "rank": "137",
           "version": "NTSC",
-          "standard": "7 / Hero C",
-          "updated_standard": "15 / Master C",
+          "standard": "6 / Hero B",
+          "updated_standard": "14 / Master B",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "132",
+          "rank": "116",
           "version": "NTSC",
-          "standard": "5 / Hero A",
-          "updated_standard": "16 / Master D",
+          "standard": "4 / Titan D",
+          "updated_standard": "15 / Master C",
           "driver": "Dingodile"
         }
       },
@@ -34244,14 +34244,14 @@
           "version": "NTSC",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "149",
           "version": "NTSC",
           "standard": "4 / Titan D",
           "updated_standard": "15 / Master C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -34278,14 +34278,14 @@
           "version": "NTSC",
           "standard": "6 / Hero B",
           "updated_standard": "14 / Master B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "100",
           "version": "NTSC",
           "standard": "1 / Titan A",
           "updated_standard": "11 / Hero C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -34295,14 +34295,14 @@
           "version": "NTSC",
           "standard": "12 / Expert D",
           "updated_standard": "17 / Expert A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "115",
           "version": "NTSC",
           "standard": "9 / Expert A",
           "updated_standard": "14 / Master B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -34312,14 +34312,14 @@
           "version": "NTSC",
           "standard": "20 / Intermediate D",
           "updated_standard": "19 / Expert C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "112",
           "version": "NTSC",
           "standard": "6 / Hero B",
           "updated_standard": "13 / Master A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -34329,14 +34329,14 @@
           "version": "NTSC",
           "standard": "9 / Expert A",
           "updated_standard": "15 / Master C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "143",
           "version": "NTSC",
           "standard": "7 / Hero C",
           "updated_standard": "15 / Master C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -34346,14 +34346,14 @@
           "version": "NTSC",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "102",
           "version": "NTSC",
           "standard": "4 / Titan D",
           "updated_standard": "14 / Master B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -34363,14 +34363,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "96",
           "version": "NTSC",
           "standard": "5 / Hero A",
           "updated_standard": "11 / Hero C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -34380,14 +34380,14 @@
           "version": "NTSC",
           "standard": "6 / Hero B",
           "updated_standard": "16 / Master D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "70",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -34397,14 +34397,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "17 / Expert A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "225",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "19 / Expert C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -34414,14 +34414,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "16 / Master D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "168",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "17 / Expert A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -34431,14 +34431,14 @@
           "version": "NTSC",
           "standard": "11 / Expert C",
           "updated_standard": "16 / Master D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "177",
           "version": "NTSC",
           "standard": "12 / Expert D",
           "updated_standard": "17 / Expert A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       }
     ]
@@ -36408,7 +36408,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "120",
+          "rank": "121",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "15 / Master C",
@@ -37387,14 +37387,14 @@
           "version": "PAL",
           "standard": "8 / Hero D",
           "updated_standard": "16 / Master D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "210",
           "version": "PAL",
           "standard": "8 / Hero D",
           "updated_standard": "17 / Expert A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -37404,14 +37404,14 @@
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "78",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -37421,14 +37421,14 @@
           "version": "PAL",
           "standard": "7 / Hero C",
           "updated_standard": "16 / Master D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Dingodile"
         },
         "lap": {
           "rank": "222",
           "version": "PAL",
           "standard": "10 / Expert B",
           "updated_standard": "18 / Expert B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Dingodile"
         }
       },
       {
@@ -37438,14 +37438,14 @@
           "version": "PAL",
           "standard": "7 / Hero C",
           "updated_standard": "15 / Master C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "191",
           "version": "PAL",
           "standard": "11 / Expert C",
           "updated_standard": "17 / Expert A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -37455,14 +37455,14 @@
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "15 / Master C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "152",
           "version": "PAL",
           "standard": "11 / Expert C",
           "updated_standard": "16 / Master D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -37472,14 +37472,14 @@
           "version": "PAL",
           "standard": "11 / Expert C",
           "updated_standard": "14 / Master B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "159",
           "version": "PAL",
           "standard": "10 / Expert B",
           "updated_standard": "16 / Master D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -37489,14 +37489,14 @@
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "16 / Master D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "138",
           "version": "PAL",
           "standard": "7 / Hero C",
           "updated_standard": "15 / Master C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -37506,14 +37506,14 @@
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "17 / Expert A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "197",
           "version": "PAL",
           "standard": "9 / Expert A",
           "updated_standard": "18 / Expert B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -37523,14 +37523,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "15 / Master C",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "50",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -37540,14 +37540,14 @@
           "version": "PAL",
           "standard": "4 / Titan D",
           "updated_standard": "14 / Master B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "132",
           "version": "NTSC",
           "standard": "4 / Titan D",
           "updated_standard": "14 / Master B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -37557,14 +37557,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "91",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "13 / Master A",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -37574,14 +37574,14 @@
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "14 / Master B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "133",
           "version": "PAL",
           "standard": "0 / GOD",
           "updated_standard": "16 / Master D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       },
       {
@@ -37591,14 +37591,14 @@
           "version": "PAL",
           "standard": "8 / Hero D",
           "updated_standard": "14 / Master B",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         },
         "lap": {
           "rank": "141",
           "version": "PAL",
           "standard": "10 / Expert B",
           "updated_standard": "16 / Master D",
-          "driver": "/pagespeed_static/1.JiBnMqyl6S.gif"
+          "driver": "Penta Penguin"
         }
       }
     ]
@@ -38620,7 +38620,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "125",
+          "rank": "126",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -43676,7 +43676,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "127",
+          "rank": "128",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -43992,7 +43992,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "127",
+          "rank": "128",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -44624,7 +44624,7 @@
           "driver": "N.Tropy"
         },
         "lap": {
-          "rank": "132",
+          "rank": "133",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "16 / Master D",
@@ -48409,7 +48409,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "139",
+          "rank": "140",
           "version": "PAL",
           "standard": "7 / Hero C",
           "updated_standard": "15 / Master C",
@@ -65157,7 +65157,7 @@
       {
         "name": "Coco Park",
         "course": {
-          "rank": "138",
+          "rank": "139",
           "version": "N/A",
           "standard": "6 / Hero B",
           "updated_standard": "14 / Master B",
