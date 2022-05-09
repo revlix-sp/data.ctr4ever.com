@@ -1152,7 +1152,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "11",
+          "rank": "12",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -1468,7 +1468,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "12",
+          "rank": "13",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -1784,7 +1784,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "10",
+          "rank": "11",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -7472,7 +7472,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "12",
+          "rank": "13",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -7788,7 +7788,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "12",
+          "rank": "10",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "5 / Titan A",
@@ -63201,322 +63201,6 @@
   },
   {
     "id": 201,
-    "speudo": "ewillyyy",
-    "country": "United States",
-    "age": "31",
-    "description": "NTSC-U ONLY",
-    "pid": "player.php?pid=1147",
-    "track": [
-      {
-        "name": "Crash Cove",
-        "course": {
-          "rank": "312",
-          "version": "NTSC",
-          "standard": "6 / Hero B",
-          "updated_standard": "19 / Expert C",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "269",
-          "version": "NTSC",
-          "standard": "7 / Hero C",
-          "updated_standard": "18 / Expert B",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Roo Tubes",
-        "course": {
-          "rank": "296",
-          "version": "NTSC",
-          "standard": "9 / Expert A",
-          "updated_standard": "18 / Expert B",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "238",
-          "version": "NTSC",
-          "standard": "8 / Hero D",
-          "updated_standard": "16 / Master D",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Tiger Temple",
-        "course": {
-          "rank": "263",
-          "version": "NTSC",
-          "standard": "9 / Expert A",
-          "updated_standard": "19 / Expert C",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "272",
-          "version": "NTSC",
-          "standard": "9 / Expert A",
-          "updated_standard": "20 / Expert D",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Coco Park",
-        "course": {
-          "rank": "235",
-          "version": "NTSC",
-          "standard": "10 / Expert B",
-          "updated_standard": "18 / Expert B",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "256",
-          "version": "NTSC",
-          "standard": "9 / Expert A",
-          "updated_standard": "19 / Expert C",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Mystery Caves",
-        "course": {
-          "rank": "217",
-          "version": "NTSC",
-          "standard": "7 / Hero C",
-          "updated_standard": "17 / Expert A",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "234",
-          "version": "NTSC",
-          "standard": "8 / Hero D",
-          "updated_standard": "19 / Expert C",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Blizzard Bluff",
-        "course": {
-          "rank": "240",
-          "version": "NTSC",
-          "standard": "9 / Expert A",
-          "updated_standard": "17 / Expert A",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "253",
-          "version": "NTSC",
-          "standard": "10 / Expert B",
-          "updated_standard": "19 / Expert C",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Sewer Speedway",
-        "course": {
-          "rank": "299",
-          "version": "NTSC",
-          "standard": "8 / Hero D",
-          "updated_standard": "20 / Expert D",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "279",
-          "version": "NTSC",
-          "standard": "8 / Hero D",
-          "updated_standard": "20 / Expert D",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Dingo Canyon",
-        "course": {
-          "rank": "210",
-          "version": "NTSC",
-          "standard": "9 / Expert A",
-          "updated_standard": "17 / Expert A",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "212",
-          "version": "NTSC",
-          "standard": "9 / Expert A",
-          "updated_standard": "18 / Expert B",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Papu Pyramid",
-        "course": {
-          "rank": "293",
-          "version": "NTSC",
-          "standard": "15 / Advance C",
-          "updated_standard": "20 / Expert D",
-          "driver": "Pinstripe"
-        },
-        "lap": {
-          "rank": "231",
-          "version": "NTSC",
-          "standard": "13 / Advance A",
-          "updated_standard": "18 / Expert B",
-          "driver": "Pinstripe"
-        }
-      },
-      {
-        "name": "Dragon Mines",
-        "course": {
-          "rank": "235",
-          "version": "NTSC",
-          "standard": "14 / Advance B",
-          "updated_standard": "19 / Expert C",
-          "driver": "Pinstripe"
-        },
-        "lap": {
-          "rank": "209",
-          "version": "NTSC",
-          "standard": "14 / Advance B",
-          "updated_standard": "18 / Expert B",
-          "driver": "Pinstripe"
-        }
-      },
-      {
-        "name": "Polar Pass",
-        "course": {
-          "rank": "207",
-          "version": "NTSC",
-          "standard": "19 / Intermediate C",
-          "updated_standard": "18 / Expert B",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "246",
-          "version": "NTSC",
-          "standard": "18 / Intermediate B",
-          "updated_standard": "20 / Expert D",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Cortex Castle",
-        "course": {
-          "rank": "220",
-          "version": "NTSC",
-          "standard": "12 / Expert D",
-          "updated_standard": "18 / Expert B",
-          "driver": "Pinstripe"
-        },
-        "lap": {
-          "rank": "228",
-          "version": "NTSC",
-          "standard": "13 / Advance A",
-          "updated_standard": "19 / Expert C",
-          "driver": "Pinstripe"
-        }
-      },
-      {
-        "name": "Tiny Arena",
-        "course": {
-          "rank": "270",
-          "version": "NTSC",
-          "standard": "12 / Expert D",
-          "updated_standard": "20 / Expert D",
-          "driver": "Pinstripe"
-        },
-        "lap": {
-          "rank": "258",
-          "version": "NTSC",
-          "standard": "12 / Expert D",
-          "updated_standard": "21 / Advance A",
-          "driver": "Pinstripe"
-        }
-      },
-      {
-        "name": "Hot Air Skyway",
-        "course": {
-          "rank": "189",
-          "version": "NTSC",
-          "standard": "11 / Expert C",
-          "updated_standard": "18 / Expert B",
-          "driver": "Pinstripe"
-        },
-        "lap": {
-          "rank": "203",
-          "version": "NTSC",
-          "standard": "22 / Beginner B",
-          "updated_standard": "19 / Expert C",
-          "driver": "Pinstripe"
-        }
-      },
-      {
-        "name": "N.Gin Labs",
-        "course": {
-          "rank": "280",
-          "version": "NTSC",
-          "standard": "9 / Expert A",
-          "updated_standard": "19 / Expert C",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "267",
-          "version": "NTSC",
-          "standard": "10 / Expert B",
-          "updated_standard": "20 / Expert D",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Oxide Station",
-        "course": {
-          "rank": "221",
-          "version": "NTSC",
-          "standard": "9 / Expert A",
-          "updated_standard": "19 / Expert C",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "207",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "18 / Expert B",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Slide Coliseum",
-        "course": {
-          "rank": "242",
-          "version": "NTSC",
-          "standard": "8 / Hero D",
-          "updated_standard": "19 / Expert C",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "234",
-          "version": "NTSC",
-          "standard": "7 / Hero C",
-          "updated_standard": "20 / Expert D",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Turbo Track",
-        "course": {
-          "rank": "179",
-          "version": "NTSC",
-          "standard": "12 / Expert D",
-          "updated_standard": "17 / Expert A",
-          "driver": "Polar"
-        },
-        "lap": {
-          "rank": "191",
-          "version": "NTSC",
-          "standard": "14 / Advance B",
-          "updated_standard": "18 / Expert B",
-          "driver": "Polar"
-        }
-      }
-    ]
-  },
-  {
-    "id": 202,
     "speudo": "brolydbz12",
     "country": "Mexico",
     "age": "30",
@@ -63827,6 +63511,322 @@
           "standard": "16 / Advance D",
           "updated_standard": "20 / Expert D",
           "driver": "Penta Penguin"
+        }
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "speudo": "ewillyyy",
+    "country": "United States",
+    "age": "31",
+    "description": "NTSC-U ONLY",
+    "pid": "player.php?pid=1147",
+    "track": [
+      {
+        "name": "Crash Cove",
+        "course": {
+          "rank": "312",
+          "version": "NTSC",
+          "standard": "6 / Hero B",
+          "updated_standard": "19 / Expert C",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "269",
+          "version": "NTSC",
+          "standard": "7 / Hero C",
+          "updated_standard": "18 / Expert B",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Roo Tubes",
+        "course": {
+          "rank": "296",
+          "version": "NTSC",
+          "standard": "9 / Expert A",
+          "updated_standard": "18 / Expert B",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "238",
+          "version": "NTSC",
+          "standard": "8 / Hero D",
+          "updated_standard": "16 / Master D",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Tiger Temple",
+        "course": {
+          "rank": "263",
+          "version": "NTSC",
+          "standard": "9 / Expert A",
+          "updated_standard": "19 / Expert C",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "272",
+          "version": "NTSC",
+          "standard": "9 / Expert A",
+          "updated_standard": "20 / Expert D",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Coco Park",
+        "course": {
+          "rank": "235",
+          "version": "NTSC",
+          "standard": "10 / Expert B",
+          "updated_standard": "18 / Expert B",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "256",
+          "version": "NTSC",
+          "standard": "9 / Expert A",
+          "updated_standard": "19 / Expert C",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Mystery Caves",
+        "course": {
+          "rank": "217",
+          "version": "NTSC",
+          "standard": "7 / Hero C",
+          "updated_standard": "17 / Expert A",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "234",
+          "version": "NTSC",
+          "standard": "8 / Hero D",
+          "updated_standard": "19 / Expert C",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Blizzard Bluff",
+        "course": {
+          "rank": "240",
+          "version": "NTSC",
+          "standard": "9 / Expert A",
+          "updated_standard": "17 / Expert A",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "253",
+          "version": "NTSC",
+          "standard": "10 / Expert B",
+          "updated_standard": "19 / Expert C",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Sewer Speedway",
+        "course": {
+          "rank": "299",
+          "version": "NTSC",
+          "standard": "8 / Hero D",
+          "updated_standard": "20 / Expert D",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "279",
+          "version": "NTSC",
+          "standard": "8 / Hero D",
+          "updated_standard": "20 / Expert D",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Dingo Canyon",
+        "course": {
+          "rank": "210",
+          "version": "NTSC",
+          "standard": "9 / Expert A",
+          "updated_standard": "17 / Expert A",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "212",
+          "version": "NTSC",
+          "standard": "9 / Expert A",
+          "updated_standard": "18 / Expert B",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Papu Pyramid",
+        "course": {
+          "rank": "293",
+          "version": "NTSC",
+          "standard": "15 / Advance C",
+          "updated_standard": "20 / Expert D",
+          "driver": "Pinstripe"
+        },
+        "lap": {
+          "rank": "231",
+          "version": "NTSC",
+          "standard": "13 / Advance A",
+          "updated_standard": "18 / Expert B",
+          "driver": "Pinstripe"
+        }
+      },
+      {
+        "name": "Dragon Mines",
+        "course": {
+          "rank": "235",
+          "version": "NTSC",
+          "standard": "14 / Advance B",
+          "updated_standard": "19 / Expert C",
+          "driver": "Pinstripe"
+        },
+        "lap": {
+          "rank": "209",
+          "version": "NTSC",
+          "standard": "14 / Advance B",
+          "updated_standard": "18 / Expert B",
+          "driver": "Pinstripe"
+        }
+      },
+      {
+        "name": "Polar Pass",
+        "course": {
+          "rank": "207",
+          "version": "NTSC",
+          "standard": "19 / Intermediate C",
+          "updated_standard": "18 / Expert B",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "246",
+          "version": "NTSC",
+          "standard": "18 / Intermediate B",
+          "updated_standard": "20 / Expert D",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Cortex Castle",
+        "course": {
+          "rank": "220",
+          "version": "NTSC",
+          "standard": "12 / Expert D",
+          "updated_standard": "18 / Expert B",
+          "driver": "Pinstripe"
+        },
+        "lap": {
+          "rank": "228",
+          "version": "NTSC",
+          "standard": "13 / Advance A",
+          "updated_standard": "19 / Expert C",
+          "driver": "Pinstripe"
+        }
+      },
+      {
+        "name": "Tiny Arena",
+        "course": {
+          "rank": "270",
+          "version": "NTSC",
+          "standard": "12 / Expert D",
+          "updated_standard": "20 / Expert D",
+          "driver": "Pinstripe"
+        },
+        "lap": {
+          "rank": "258",
+          "version": "NTSC",
+          "standard": "12 / Expert D",
+          "updated_standard": "21 / Advance A",
+          "driver": "Pinstripe"
+        }
+      },
+      {
+        "name": "Hot Air Skyway",
+        "course": {
+          "rank": "189",
+          "version": "NTSC",
+          "standard": "11 / Expert C",
+          "updated_standard": "18 / Expert B",
+          "driver": "Pinstripe"
+        },
+        "lap": {
+          "rank": "203",
+          "version": "NTSC",
+          "standard": "22 / Beginner B",
+          "updated_standard": "19 / Expert C",
+          "driver": "Pinstripe"
+        }
+      },
+      {
+        "name": "N.Gin Labs",
+        "course": {
+          "rank": "280",
+          "version": "NTSC",
+          "standard": "9 / Expert A",
+          "updated_standard": "19 / Expert C",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "267",
+          "version": "NTSC",
+          "standard": "10 / Expert B",
+          "updated_standard": "20 / Expert D",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Oxide Station",
+        "course": {
+          "rank": "221",
+          "version": "NTSC",
+          "standard": "9 / Expert A",
+          "updated_standard": "19 / Expert C",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "207",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "18 / Expert B",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Slide Coliseum",
+        "course": {
+          "rank": "242",
+          "version": "NTSC",
+          "standard": "8 / Hero D",
+          "updated_standard": "19 / Expert C",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "234",
+          "version": "NTSC",
+          "standard": "7 / Hero C",
+          "updated_standard": "20 / Expert D",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Turbo Track",
+        "course": {
+          "rank": "179",
+          "version": "NTSC",
+          "standard": "12 / Expert D",
+          "updated_standard": "17 / Expert A",
+          "driver": "Polar"
+        },
+        "lap": {
+          "rank": "191",
+          "version": "NTSC",
+          "standard": "14 / Advance B",
+          "updated_standard": "18 / Expert B",
+          "driver": "Polar"
         }
       }
     ]
