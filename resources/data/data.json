@@ -17142,7 +17142,7 @@
       {
         "name": "Mystery Caves",
         "course": {
-          "rank": "65",
+          "rank": "66",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -18722,7 +18722,7 @@
       {
         "name": "Mystery Caves",
         "course": {
-          "rank": "74",
+          "rank": "75",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "10 / Hero B",
@@ -19038,7 +19038,7 @@
       {
         "name": "Mystery Caves",
         "course": {
-          "rank": "64",
+          "rank": "65",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -19354,7 +19354,7 @@
       {
         "name": "Mystery Caves",
         "course": {
-          "rank": "69",
+          "rank": "70",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -19670,7 +19670,7 @@
       {
         "name": "Mystery Caves",
         "course": {
-          "rank": "71",
+          "rank": "72",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -20618,7 +20618,7 @@
       {
         "name": "Mystery Caves",
         "course": {
-          "rank": "67",
+          "rank": "68",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -22198,7 +22198,7 @@
       {
         "name": "Mystery Caves",
         "course": {
-          "rank": "72",
+          "rank": "73",
           "version": "NTSC",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -24094,7 +24094,7 @@
       {
         "name": "Mystery Caves",
         "course": {
-          "rank": "73",
+          "rank": "74",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -24767,7 +24767,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "111",
+          "rank": "112",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "12 / Hero D",
@@ -26979,7 +26979,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "128",
+          "rank": "129",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "13 / Master A",
@@ -27927,7 +27927,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "132",
+          "rank": "133",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -28243,7 +28243,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "139",
+          "rank": "140",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -28559,7 +28559,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "124",
+          "rank": "125",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "13 / Master A",
@@ -28875,7 +28875,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "134",
+          "rank": "135",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -29507,7 +29507,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "122",
+          "rank": "123",
           "version": "PAL",
           "standard": "2 / Titan B",
           "updated_standard": "13 / Master A",
@@ -29823,7 +29823,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "134",
+          "rank": "135",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -30771,7 +30771,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "115",
+          "rank": "116",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "12 / Hero D",
@@ -32035,7 +32035,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "128",
+          "rank": "129",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "13 / Master A",
@@ -32351,7 +32351,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "147",
+          "rank": "148",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "15 / Master C",
@@ -32549,6 +32549,322 @@
   },
   {
     "id": 104,
+    "speudo": "BulletValentine-ARG",
+    "country": "Argentina",
+    "age": "21",
+    "description": "Just a guy who loves CTR and tries to improve more and more.",
+    "pid": "player.php?pid=1412",
+    "track": [
+      {
+        "name": "Crash Cove",
+        "course": {
+          "rank": "70",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "9 / Hero A",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "35",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "8 / Titan D",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Roo Tubes",
+        "course": {
+          "rank": "105",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "12 / Hero D",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "66",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "9 / Hero A",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Tiger Temple",
+        "course": {
+          "rank": "95",
+          "version": "NTSC",
+          "standard": "1 / Titan A",
+          "updated_standard": "11 / Hero C",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "95",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "11 / Hero C",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Coco Park",
+        "course": {
+          "rank": "137",
+          "version": "NTSC",
+          "standard": "6 / Hero B",
+          "updated_standard": "14 / Master B",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "116",
+          "version": "NTSC",
+          "standard": "4 / Titan D",
+          "updated_standard": "15 / Master C",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Mystery Caves",
+        "course": {
+          "rank": "63",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "9 / Hero A",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "90",
+          "version": "NTSC",
+          "standard": "1 / Titan A",
+          "updated_standard": "11 / Hero C",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Blizzard Bluff",
+        "course": {
+          "rank": "114",
+          "version": "NTSC",
+          "standard": "5 / Hero A",
+          "updated_standard": "13 / Master A",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "99",
+          "version": "NTSC",
+          "standard": "3 / Titan C",
+          "updated_standard": "12 / Hero D",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Sewer Speedway",
+        "course": {
+          "rank": "160",
+          "version": "NTSC",
+          "standard": "5 / Hero A",
+          "updated_standard": "14 / Master B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "111",
+          "version": "NTSC",
+          "standard": "1 / Titan A",
+          "updated_standard": "11 / Hero C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Dingo Canyon",
+        "course": {
+          "rank": "108",
+          "version": "NTSC",
+          "standard": "3 / Titan C",
+          "updated_standard": "13 / Master A",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "105",
+          "version": "NTSC",
+          "standard": "3 / Titan C",
+          "updated_standard": "13 / Master A",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Papu Pyramid",
+        "course": {
+          "rank": "127",
+          "version": "NTSC",
+          "standard": "6 / Hero B",
+          "updated_standard": "14 / Master B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "100",
+          "version": "NTSC",
+          "standard": "1 / Titan A",
+          "updated_standard": "11 / Hero C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Dragon Mines",
+        "course": {
+          "rank": "184",
+          "version": "NTSC",
+          "standard": "12 / Expert D",
+          "updated_standard": "17 / Expert A",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "115",
+          "version": "NTSC",
+          "standard": "9 / Expert A",
+          "updated_standard": "14 / Master B",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Polar Pass",
+        "course": {
+          "rank": "219",
+          "version": "NTSC",
+          "standard": "20 / Intermediate D",
+          "updated_standard": "19 / Expert C",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "112",
+          "version": "NTSC",
+          "standard": "6 / Hero B",
+          "updated_standard": "13 / Master A",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Cortex Castle",
+        "course": {
+          "rank": "146",
+          "version": "NTSC",
+          "standard": "9 / Expert A",
+          "updated_standard": "15 / Master C",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "143",
+          "version": "NTSC",
+          "standard": "7 / Hero C",
+          "updated_standard": "15 / Master C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Tiny Arena",
+        "course": {
+          "rank": "105",
+          "version": "NTSC",
+          "standard": "5 / Hero A",
+          "updated_standard": "15 / Master C",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "102",
+          "version": "NTSC",
+          "standard": "4 / Titan D",
+          "updated_standard": "14 / Master B",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Hot Air Skyway",
+        "course": {
+          "rank": "105",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "13 / Master A",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "97",
+          "version": "NTSC",
+          "standard": "5 / Hero A",
+          "updated_standard": "11 / Hero C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "N.Gin Labs",
+        "course": {
+          "rank": "180",
+          "version": "NTSC",
+          "standard": "6 / Hero B",
+          "updated_standard": "16 / Master D",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "70",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "10 / Hero B",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Oxide Station",
+        "course": {
+          "rank": "185",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "17 / Expert A",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "225",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "19 / Expert C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Slide Coliseum",
+        "course": {
+          "rank": "148",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "16 / Master D",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "168",
+          "version": "NTSC",
+          "standard": "0 / GOD",
+          "updated_standard": "17 / Expert A",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Turbo Track",
+        "course": {
+          "rank": "154",
+          "version": "NTSC",
+          "standard": "11 / Expert C",
+          "updated_standard": "16 / Master D",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "177",
+          "version": "NTSC",
+          "standard": "12 / Expert D",
+          "updated_standard": "17 / Expert A",
+          "driver": "Penta Penguin"
+        }
+      }
+    ]
+  },
+  {
+    "id": 105,
     "speudo": "Zigloo",
     "country": "France",
     "age": "22",
@@ -32864,7 +33180,7 @@
     ]
   },
   {
-    "id": 105,
+    "id": 106,
     "speudo": "Sayenjin",
     "country": "France",
     "age": "38",
@@ -32983,7 +33299,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "122",
+          "rank": "123",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "13 / Master A",
@@ -33180,7 +33496,7 @@
     ]
   },
   {
-    "id": 106,
+    "id": 107,
     "speudo": "3diSpade",
     "country": "Italy",
     "age": "35",
@@ -33490,322 +33806,6 @@
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "13 / Master A",
-          "driver": "Penta Penguin"
-        }
-      }
-    ]
-  },
-  {
-    "id": 107,
-    "speudo": "BulletValentine-ARG",
-    "country": "Argentina",
-    "age": "21",
-    "description": "Just a guy who loves CTR and tries to improve more and more.",
-    "pid": "player.php?pid=1412",
-    "track": [
-      {
-        "name": "Crash Cove",
-        "course": {
-          "rank": "70",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "9 / Hero A",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "35",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "8 / Titan D",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Roo Tubes",
-        "course": {
-          "rank": "105",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "12 / Hero D",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "66",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "9 / Hero A",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Tiger Temple",
-        "course": {
-          "rank": "95",
-          "version": "NTSC",
-          "standard": "1 / Titan A",
-          "updated_standard": "11 / Hero C",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "95",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "11 / Hero C",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Coco Park",
-        "course": {
-          "rank": "137",
-          "version": "NTSC",
-          "standard": "6 / Hero B",
-          "updated_standard": "14 / Master B",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "116",
-          "version": "NTSC",
-          "standard": "4 / Titan D",
-          "updated_standard": "15 / Master C",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Mystery Caves",
-        "course": {
-          "rank": "75",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "10 / Hero B",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "90",
-          "version": "NTSC",
-          "standard": "1 / Titan A",
-          "updated_standard": "11 / Hero C",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Blizzard Bluff",
-        "course": {
-          "rank": "114",
-          "version": "NTSC",
-          "standard": "5 / Hero A",
-          "updated_standard": "13 / Master A",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "99",
-          "version": "NTSC",
-          "standard": "3 / Titan C",
-          "updated_standard": "12 / Hero D",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Sewer Speedway",
-        "course": {
-          "rank": "173",
-          "version": "NTSC",
-          "standard": "5 / Hero A",
-          "updated_standard": "15 / Master C",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "149",
-          "version": "NTSC",
-          "standard": "4 / Titan D",
-          "updated_standard": "15 / Master C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Dingo Canyon",
-        "course": {
-          "rank": "108",
-          "version": "NTSC",
-          "standard": "3 / Titan C",
-          "updated_standard": "13 / Master A",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "105",
-          "version": "NTSC",
-          "standard": "3 / Titan C",
-          "updated_standard": "13 / Master A",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Papu Pyramid",
-        "course": {
-          "rank": "127",
-          "version": "NTSC",
-          "standard": "6 / Hero B",
-          "updated_standard": "14 / Master B",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "100",
-          "version": "NTSC",
-          "standard": "1 / Titan A",
-          "updated_standard": "11 / Hero C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Dragon Mines",
-        "course": {
-          "rank": "184",
-          "version": "NTSC",
-          "standard": "12 / Expert D",
-          "updated_standard": "17 / Expert A",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "115",
-          "version": "NTSC",
-          "standard": "9 / Expert A",
-          "updated_standard": "14 / Master B",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Polar Pass",
-        "course": {
-          "rank": "219",
-          "version": "NTSC",
-          "standard": "20 / Intermediate D",
-          "updated_standard": "19 / Expert C",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "112",
-          "version": "NTSC",
-          "standard": "6 / Hero B",
-          "updated_standard": "13 / Master A",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Cortex Castle",
-        "course": {
-          "rank": "146",
-          "version": "NTSC",
-          "standard": "9 / Expert A",
-          "updated_standard": "15 / Master C",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "143",
-          "version": "NTSC",
-          "standard": "7 / Hero C",
-          "updated_standard": "15 / Master C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Tiny Arena",
-        "course": {
-          "rank": "105",
-          "version": "NTSC",
-          "standard": "5 / Hero A",
-          "updated_standard": "15 / Master C",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "102",
-          "version": "NTSC",
-          "standard": "4 / Titan D",
-          "updated_standard": "14 / Master B",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Hot Air Skyway",
-        "course": {
-          "rank": "105",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "13 / Master A",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "97",
-          "version": "NTSC",
-          "standard": "5 / Hero A",
-          "updated_standard": "11 / Hero C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "N.Gin Labs",
-        "course": {
-          "rank": "180",
-          "version": "NTSC",
-          "standard": "6 / Hero B",
-          "updated_standard": "16 / Master D",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "70",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "10 / Hero B",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Oxide Station",
-        "course": {
-          "rank": "185",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "17 / Expert A",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "225",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "19 / Expert C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Slide Coliseum",
-        "course": {
-          "rank": "148",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "16 / Master D",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "168",
-          "version": "NTSC",
-          "standard": "0 / GOD",
-          "updated_standard": "17 / Expert A",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Turbo Track",
-        "course": {
-          "rank": "154",
-          "version": "NTSC",
-          "standard": "11 / Expert C",
-          "updated_standard": "16 / Master D",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "177",
-          "version": "NTSC",
-          "standard": "12 / Expert D",
-          "updated_standard": "17 / Expert A",
           "driver": "Penta Penguin"
         }
       }
@@ -34556,14 +34556,14 @@
       {
         "name": "Sewer Speedway",
         "course": {
-          "rank": "166",
+          "rank": "167",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "137",
+          "rank": "138",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -34879,7 +34879,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "113",
+          "rank": "114",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "12 / Hero D",
@@ -35195,7 +35195,7 @@
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "142",
+          "rank": "143",
           "version": "PAL",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -35504,14 +35504,14 @@
       {
         "name": "Sewer Speedway",
         "course": {
-          "rank": "168",
+          "rank": "169",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
           "driver": "Dingodile"
         },
         "lap": {
-          "rank": "124",
+          "rank": "125",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "13 / Master A",
@@ -35827,7 +35827,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "111",
+          "rank": "112",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "12 / Hero D",
@@ -36136,7 +36136,7 @@
       {
         "name": "Sewer Speedway",
         "course": {
-          "rank": "163",
+          "rank": "164",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -37407,7 +37407,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "143",
+          "rank": "144",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -37723,7 +37723,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "143",
+          "rank": "144",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -38039,7 +38039,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "118",
+          "rank": "119",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "12 / Hero D",
@@ -38355,7 +38355,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "127",
+          "rank": "128",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "13 / Master A",
@@ -38980,7 +38980,7 @@
       {
         "name": "Sewer Speedway",
         "course": {
-          "rank": "163",
+          "rank": "164",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -39619,7 +39619,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "124",
+          "rank": "125",
           "version": "PAL",
           "standard": "2 / Titan B",
           "updated_standard": "13 / Master A",
@@ -39935,7 +39935,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "140",
+          "rank": "141",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -40244,7 +40244,7 @@
       {
         "name": "Sewer Speedway",
         "course": {
-          "rank": "172",
+          "rank": "173",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -40883,7 +40883,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "132",
+          "rank": "133",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -43727,7 +43727,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "116",
+          "rank": "117",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "12 / Hero D",
@@ -44359,7 +44359,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "113",
+          "rank": "114",
           "version": "N/A",
           "standard": "1 / Titan A",
           "updated_standard": "12 / Hero D",
@@ -45616,7 +45616,7 @@
       {
         "name": "Sewer Speedway",
         "course": {
-          "rank": "160",
+          "rank": "161",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
@@ -45939,7 +45939,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "130",
+          "rank": "131",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -46255,7 +46255,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "149",
+          "rank": "150",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "15 / Master C",
@@ -48033,322 +48033,6 @@
   },
   {
     "id": 153,
-    "speudo": "Thibaut le nul",
-    "country": "France",
-    "age": "35",
-    "description": "",
-    "pid": "player.php?pid=56",
-    "track": [
-      {
-        "name": "Crash Cove",
-        "course": {
-          "rank": "220",
-          "version": "N/A",
-          "standard": "4 / Titan D",
-          "updated_standard": "16 / Master D",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "169",
-          "version": "N/A",
-          "standard": "5 / Hero A",
-          "updated_standard": "14 / Master B",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Roo Tubes",
-        "course": {
-          "rank": "259",
-          "version": "N/A",
-          "standard": "8 / Hero D",
-          "updated_standard": "17 / Expert A",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "223",
-          "version": "N/A",
-          "standard": "8 / Hero D",
-          "updated_standard": "16 / Master D",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Tiger Temple",
-        "course": {
-          "rank": "190",
-          "version": "N/A",
-          "standard": "6 / Hero B",
-          "updated_standard": "16 / Master D",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "207",
-          "version": "N/A",
-          "standard": "6 / Hero B",
-          "updated_standard": "17 / Expert A",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Coco Park",
-        "course": {
-          "rank": "267",
-          "version": "N/A",
-          "standard": "10 / Expert B",
-          "updated_standard": "19 / Expert C",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "241",
-          "version": "N/A",
-          "standard": "9 / Expert A",
-          "updated_standard": "19 / Expert C",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Mystery Caves",
-        "course": {
-          "rank": "200",
-          "version": "N/A",
-          "standard": "6 / Hero B",
-          "updated_standard": "17 / Expert A",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "164",
-          "version": "N/A",
-          "standard": "6 / Hero B",
-          "updated_standard": "15 / Master C",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Blizzard Bluff",
-        "course": {
-          "rank": "192",
-          "version": "N/A",
-          "standard": "8 / Hero D",
-          "updated_standard": "16 / Master D",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "139",
-          "version": "N/A",
-          "standard": "6 / Hero B",
-          "updated_standard": "15 / Master C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Sewer Speedway",
-        "course": {
-          "rank": "185",
-          "version": "N/A",
-          "standard": "5 / Hero A",
-          "updated_standard": "15 / Master C",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "159",
-          "version": "N/A",
-          "standard": "5 / Hero A",
-          "updated_standard": "16 / Master D",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Dingo Canyon",
-        "course": {
-          "rank": "166",
-          "version": "N/A",
-          "standard": "7 / Hero C",
-          "updated_standard": "16 / Master D",
-          "driver": "Dingodile"
-        },
-        "lap": {
-          "rank": "167",
-          "version": "N/A",
-          "standard": "8 / Hero D",
-          "updated_standard": "16 / Master D",
-          "driver": "Dingodile"
-        }
-      },
-      {
-        "name": "Papu Pyramid",
-        "course": {
-          "rank": "210",
-          "version": "N/A",
-          "standard": "11 / Expert C",
-          "updated_standard": "17 / Expert A",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "140",
-          "version": "N/A",
-          "standard": "9 / Expert A",
-          "updated_standard": "15 / Master C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Dragon Mines",
-        "course": {
-          "rank": "115",
-          "version": "N/A",
-          "standard": "7 / Hero C",
-          "updated_standard": "14 / Master B",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "106",
-          "version": "N/A",
-          "standard": "8 / Hero D",
-          "updated_standard": "13 / Master A",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Polar Pass",
-        "course": {
-          "rank": "152",
-          "version": "N/A",
-          "standard": "16 / Advance D",
-          "updated_standard": "16 / Master D",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "130",
-          "version": "N/A",
-          "standard": "9 / Expert A",
-          "updated_standard": "15 / Master C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Cortex Castle",
-        "course": {
-          "rank": "130",
-          "version": "N/A",
-          "standard": "8 / Hero D",
-          "updated_standard": "14 / Master B",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "111",
-          "version": "N/A",
-          "standard": "5 / Hero A",
-          "updated_standard": "13 / Master A",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Tiny Arena",
-        "course": {
-          "rank": "154",
-          "version": "N/A",
-          "standard": "8 / Hero D",
-          "updated_standard": "16 / Master D",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "148",
-          "version": "N/A",
-          "standard": "7 / Hero C",
-          "updated_standard": "16 / Master D",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Hot Air Skyway",
-        "course": {
-          "rank": "199",
-          "version": "N/A",
-          "standard": "12 / Expert D",
-          "updated_standard": "18 / Expert B",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "190",
-          "version": "N/A",
-          "standard": "21 / Beginner A",
-          "updated_standard": "18 / Expert B",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "N.Gin Labs",
-        "course": {
-          "rank": "221",
-          "version": "N/A",
-          "standard": "8 / Hero D",
-          "updated_standard": "18 / Expert B",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "172",
-          "version": "N/A",
-          "standard": "6 / Hero B",
-          "updated_standard": "16 / Master D",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Oxide Station",
-        "course": {
-          "rank": "202",
-          "version": "N/A",
-          "standard": "6 / Hero B",
-          "updated_standard": "19 / Expert C",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "234",
-          "version": "N/A",
-          "standard": "7 / Hero C",
-          "updated_standard": "20 / Expert D",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Slide Coliseum",
-        "course": {
-          "rank": "189",
-          "version": "N/A",
-          "standard": "5 / Hero A",
-          "updated_standard": "18 / Expert B",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "190",
-          "version": "N/A",
-          "standard": "5 / Hero A",
-          "updated_standard": "19 / Expert C",
-          "driver": "Penta Penguin"
-        }
-      },
-      {
-        "name": "Turbo Track",
-        "course": {
-          "rank": "206",
-          "version": "N/A",
-          "standard": "14 / Advance B",
-          "updated_standard": "18 / Expert B",
-          "driver": "Penta Penguin"
-        },
-        "lap": {
-          "rank": "160",
-          "version": "N/A",
-          "standard": "11 / Expert C",
-          "updated_standard": "17 / Expert A",
-          "driver": "Penta Penguin"
-        }
-      }
-    ]
-  },
-  {
-    "id": 154,
     "speudo": "Jey007",
     "country": "Monaco",
     "age": "34",
@@ -48657,6 +48341,322 @@
           "rank": "173",
           "version": "N/A",
           "standard": "12 / Expert D",
+          "updated_standard": "17 / Expert A",
+          "driver": "Penta Penguin"
+        }
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "speudo": "Thibaut le nul",
+    "country": "France",
+    "age": "35",
+    "description": "",
+    "pid": "player.php?pid=56",
+    "track": [
+      {
+        "name": "Crash Cove",
+        "course": {
+          "rank": "220",
+          "version": "N/A",
+          "standard": "4 / Titan D",
+          "updated_standard": "16 / Master D",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "169",
+          "version": "N/A",
+          "standard": "5 / Hero A",
+          "updated_standard": "14 / Master B",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Roo Tubes",
+        "course": {
+          "rank": "259",
+          "version": "N/A",
+          "standard": "8 / Hero D",
+          "updated_standard": "17 / Expert A",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "223",
+          "version": "N/A",
+          "standard": "8 / Hero D",
+          "updated_standard": "16 / Master D",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Tiger Temple",
+        "course": {
+          "rank": "190",
+          "version": "N/A",
+          "standard": "6 / Hero B",
+          "updated_standard": "16 / Master D",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "207",
+          "version": "N/A",
+          "standard": "6 / Hero B",
+          "updated_standard": "17 / Expert A",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Coco Park",
+        "course": {
+          "rank": "267",
+          "version": "N/A",
+          "standard": "10 / Expert B",
+          "updated_standard": "19 / Expert C",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "241",
+          "version": "N/A",
+          "standard": "9 / Expert A",
+          "updated_standard": "19 / Expert C",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Mystery Caves",
+        "course": {
+          "rank": "200",
+          "version": "N/A",
+          "standard": "6 / Hero B",
+          "updated_standard": "17 / Expert A",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "164",
+          "version": "N/A",
+          "standard": "6 / Hero B",
+          "updated_standard": "15 / Master C",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Blizzard Bluff",
+        "course": {
+          "rank": "192",
+          "version": "N/A",
+          "standard": "8 / Hero D",
+          "updated_standard": "16 / Master D",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "139",
+          "version": "N/A",
+          "standard": "6 / Hero B",
+          "updated_standard": "15 / Master C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Sewer Speedway",
+        "course": {
+          "rank": "185",
+          "version": "N/A",
+          "standard": "5 / Hero A",
+          "updated_standard": "15 / Master C",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "159",
+          "version": "N/A",
+          "standard": "5 / Hero A",
+          "updated_standard": "16 / Master D",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Dingo Canyon",
+        "course": {
+          "rank": "166",
+          "version": "N/A",
+          "standard": "7 / Hero C",
+          "updated_standard": "16 / Master D",
+          "driver": "Dingodile"
+        },
+        "lap": {
+          "rank": "167",
+          "version": "N/A",
+          "standard": "8 / Hero D",
+          "updated_standard": "16 / Master D",
+          "driver": "Dingodile"
+        }
+      },
+      {
+        "name": "Papu Pyramid",
+        "course": {
+          "rank": "210",
+          "version": "N/A",
+          "standard": "11 / Expert C",
+          "updated_standard": "17 / Expert A",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "140",
+          "version": "N/A",
+          "standard": "9 / Expert A",
+          "updated_standard": "15 / Master C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Dragon Mines",
+        "course": {
+          "rank": "115",
+          "version": "N/A",
+          "standard": "7 / Hero C",
+          "updated_standard": "14 / Master B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "106",
+          "version": "N/A",
+          "standard": "8 / Hero D",
+          "updated_standard": "13 / Master A",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Polar Pass",
+        "course": {
+          "rank": "152",
+          "version": "N/A",
+          "standard": "16 / Advance D",
+          "updated_standard": "16 / Master D",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "130",
+          "version": "N/A",
+          "standard": "9 / Expert A",
+          "updated_standard": "15 / Master C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Cortex Castle",
+        "course": {
+          "rank": "130",
+          "version": "N/A",
+          "standard": "8 / Hero D",
+          "updated_standard": "14 / Master B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "111",
+          "version": "N/A",
+          "standard": "5 / Hero A",
+          "updated_standard": "13 / Master A",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Tiny Arena",
+        "course": {
+          "rank": "154",
+          "version": "N/A",
+          "standard": "8 / Hero D",
+          "updated_standard": "16 / Master D",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "148",
+          "version": "N/A",
+          "standard": "7 / Hero C",
+          "updated_standard": "16 / Master D",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Hot Air Skyway",
+        "course": {
+          "rank": "199",
+          "version": "N/A",
+          "standard": "12 / Expert D",
+          "updated_standard": "18 / Expert B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "190",
+          "version": "N/A",
+          "standard": "21 / Beginner A",
+          "updated_standard": "18 / Expert B",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "N.Gin Labs",
+        "course": {
+          "rank": "221",
+          "version": "N/A",
+          "standard": "8 / Hero D",
+          "updated_standard": "18 / Expert B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "172",
+          "version": "N/A",
+          "standard": "6 / Hero B",
+          "updated_standard": "16 / Master D",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Oxide Station",
+        "course": {
+          "rank": "202",
+          "version": "N/A",
+          "standard": "6 / Hero B",
+          "updated_standard": "19 / Expert C",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "234",
+          "version": "N/A",
+          "standard": "7 / Hero C",
+          "updated_standard": "20 / Expert D",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Slide Coliseum",
+        "course": {
+          "rank": "189",
+          "version": "N/A",
+          "standard": "5 / Hero A",
+          "updated_standard": "18 / Expert B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "190",
+          "version": "N/A",
+          "standard": "5 / Hero A",
+          "updated_standard": "19 / Expert C",
+          "driver": "Penta Penguin"
+        }
+      },
+      {
+        "name": "Turbo Track",
+        "course": {
+          "rank": "206",
+          "version": "N/A",
+          "standard": "14 / Advance B",
+          "updated_standard": "18 / Expert B",
+          "driver": "Penta Penguin"
+        },
+        "lap": {
+          "rank": "160",
+          "version": "N/A",
+          "standard": "11 / Expert C",
           "updated_standard": "17 / Expert A",
           "driver": "Penta Penguin"
         }
@@ -49408,7 +49408,7 @@
       {
         "name": "Sewer Speedway",
         "course": {
-          "rank": "170",
+          "rank": "171",
           "version": "PAL",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
@@ -54780,14 +54780,14 @@
       {
         "name": "Sewer Speedway",
         "course": {
-          "rank": "171",
+          "rank": "172",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "15 / Master C",
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "137",
+          "rank": "138",
           "version": "N/A",
           "standard": "3 / Titan C",
           "updated_standard": "14 / Master B",
@@ -55735,7 +55735,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "146",
+          "rank": "147",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "15 / Master C",
@@ -60750,7 +60750,7 @@
       {
         "name": "Mystery Caves",
         "course": {
-          "rank": "69",
+          "rank": "70",
           "version": "N/A",
           "standard": "0 / GOD",
           "updated_standard": "9 / Hero A",
@@ -66795,7 +66795,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "148",
+          "rank": "149",
           "version": "N/A",
           "standard": "4 / Titan D",
           "updated_standard": "15 / Master C",
@@ -67743,7 +67743,7 @@
           "driver": "Penta Penguin"
         },
         "lap": {
-          "rank": "120",
+          "rank": "121",
           "version": "N/A",
           "standard": "2 / Titan B",
           "updated_standard": "13 / Master A",
@@ -83852,7 +83852,7 @@
       {
         "name": "Sewer Speedway",
         "course": {
-          "rank": "166",
+          "rank": "167",
           "version": "N/A",
           "standard": "5 / Hero A",
           "updated_standard": "14 / Master B",
