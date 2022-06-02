@@ -17,5 +17,5 @@ jobs:
           git add .
           git config --global user.email "github-action-bot@example.com"
           git config --global user.name "GitHub Action Bot"
-          git commit -m "Updated data.json" -a
+          git commit -m "Updated players.json" -a
           git push
