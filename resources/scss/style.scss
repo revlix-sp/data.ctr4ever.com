@@ -1,0 +1,111 @@
+@mixin bg($num, $color) {
+    .t#{$num} {
+        background-color: $color;
+    }
+}
+
+@include bg(1, #fff025);
+@include bg(2, #c5c5ce);
+@include bg(3, #f0863f);
+
+@include bg(5, #6dff6d);
+@include bg(10, #56ca56);
+@include bg(20, #42a542);
+
+@include bg(30, #a4e7fc);
+@include bg(40, #8be4ff);
+@include bg(50, #70deff);
+
+@include bg(60, #82c2ff);
+@include bg(70, #6da6db);
+@include bg(80, #578dc0);
+@include bg(100, #3a6894);
+
+@include bg(125, #e75959);
+@include bg(150, #d34d4d);
+@include bg(175, #b93c3c);
+@include bg(200, #9b2424);
+
+@include bg(225, #e651cd);
+@include bg(250, #ce37b5);
+@include bg(275, #b1269a);
+@include bg(300, #94147f);
+
+@include bg(325, #9751e6);
+@include bg(350, #7938c2);
+@include bg(375, #5b229c);
+@include bg(400, #431479);
+
+@include bg("400p", #414141);
+
+@include bg("pal", #96cff0);
+@include bg("ntsc", #96f0a5);
+@include bg("na", #acacac);
+
+@include bg("god4", #953737);
+@include bg("god3", #a74343);
+@include bg("god2", #bb5151);
+@include bg("god1", #d46666);
+
+@include bg("god", #ec7979);
+
+@include bg("mytha", #71f086);
+@include bg("mythb", #5cce6f);
+@include bg("mythc", #44b156);
+@include bg("mythd", #329543);
+
+@include bg("titana", #baf186);
+@include bg("titanb", #a7d47c);
+@include bg("titanc", #8db964);
+@include bg("titand", #769b53);
+
+@include bg("heroa", #86abf1);
+@include bg("herob", #7798d4);
+@include bg("heroc", #6c88bb);
+@include bg("herod", #6c7fa1);
+
+@include bg("mastera", #f167ac);
+@include bg("masterb", #cf5693);
+@include bg("masterc", #b94b82);
+@include bg("masterd", #9c3c6c);
+
+@include bg("experta", #f186e8);
+@include bg("expertb", #e27cda);
+@include bg("expertc", #cf6fc7);
+@include bg("expertd", #b864b1);
+
+@include bg("advancea", #af86f1);
+@include bg("advanceb", #936fce);
+@include bg("advancec", #7559a3);
+@include bg("advanced", #694f92);
+
+@include bg("intermediatea", #f1dd86);
+@include bg("intermediateb", #d4c377);
+@include bg("intermediatec", #b9aa68);
+@include bg("intermediated", #968953);
+
+@include bg("beginnera", #fa9332);
+@include bg("beginnerb", #d67c27);
+@include bg("beginnerc", #be7026);
+@include bg("beginnerd", #955b24);
+
+@include bg("newbie", #414141);
+
+table {
+    border-collapse:collapse;
+    text-align: center;
+    tr {
+        th {
+            border: 1px black solid;
+            border-bottom: 5px black solid ;
+            padding: 10px;
+            max-width: 50px;
+            overflow: hidden;
+        }
+
+        td {
+            padding: 12px;
+            border: 1px black solid;
+        }
+    }
+}
