@@ -1,21 +1,15 @@
-on:
-  schedule:
-    - cron:  '0 0 * * *'
+on: [push]
 
 jobs:
-  get-data:
+  deploy:
     runs-on: ubuntu-latest
-    name: Get Data
+    name: Deploy my nice code
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Run "action.yml"
-        uses: ./
-      - name: Commit and push
-        run: |
-          git diff
-          git add .
-          git config --global user.email "github-action-bot@example.com"
-          git config --global user.name "GitHub Action Bot"
-          git commit -m "Updated players.json" -a
-          git push
+    - name: Deploy to OVH hosting
+      uses: pitscher/ovh-deploy-hosting-action@v1
+      env:
+        OVH_HOSTING_USER: ${{ secrets.OVH_HOSTING_USER }}
+        OVH_HOSTING_PASSWORD: ${{ secrets.OVH_HOSTING_PASSWORD }}
+        OVH_HOSTING_DOMAIN: ssh.cluster031.hosting.ovh.net
+        REPOSITORY_NAME: data.ctr4ever.com
+        REPOSITORY_URL: https://github.com/revlix-sp/data.ctr4ever.com.git
